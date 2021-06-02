@@ -4,7 +4,7 @@ msgstr ""
 "Last-Translator: Community\n"
 "Language-Team: Ukrainian\n"
 "POT-Creation-Date: 2019-01-16 23:42-0500\n"
-"PO-Revision-Date: 2021-06-02 11:14\n"
+"PO-Revision-Date: 2021-06-02 13:53\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -85,15 +85,15 @@ msgstr "%sДокладніше%s."
 
 msgctxt "precise_user_location"
 msgid "%sLearn how we keep your location private%s."
-msgstr ""
+msgstr "%sДізнайтеся, як ми зберігаємо приватність вашого розташування%s."
 
 msgctxt "precise_user_location"
 msgid "%sReload%s DuckDuckGo, and try again."
-msgstr ""
+msgstr "%sПерезавантажте%s DuckDuckGo і спробуйте знову."
 
 msgctxt "noresults"
 msgid "%sReset filters %s"
-msgstr ""
+msgstr "%sСкинути фільтри %s"
 
 # Chrome default search engine instruction
 msgid "%sRight click%s in the search bar"
@@ -247,7 +247,7 @@ msgstr ""
 #. 'license' as in 'permission to use, share, or modify a work'
 msgctxt "image-licence"
 msgid "All Licenses"
-msgstr ""
+msgstr "Усі ліцензії"
 
 msgid "All Places"
 msgstr "Усі місця"
@@ -264,30 +264,30 @@ msgstr "Усі налаштування"
 
 msgctxt "settings pages"
 msgid "All Settings"
-msgstr ""
+msgstr "Усі налаштування"
 
 #. This is shown in an image filter. This option only shows images in colors, excluding black and white images. https://duckduckgo.com/?q=images+of+cats&iar=images&iax=images&ia=images
 msgctxt "image-color"
 msgid "All colors"
-msgstr ""
+msgstr "Усі кольори"
 
 #. This is shown in a layout selector for images, other options are: square, tall, wide  https://duckduckgo.com/?q=images+of+cats&iar=images&iax=images&ia=images.
 msgctxt "image-layout"
 msgid "All layouts"
-msgstr ""
+msgstr "Всі макети"
 
 msgctxt "settingsvalue"
 msgid "All regions"
-msgstr ""
+msgstr "Усі регіони"
 
 msgctxt "size"
 msgid "All sizes"
-msgstr ""
+msgstr "Усі розміри"
 
 #. Shown in an image type selector. Other options are: photograph, clipart, animated gif, etc.  https://duckduckgo.com/?q=images+of+cats&iar=images&iax=images&ia=images
 msgctxt "image-type"
 msgid "All types"
-msgstr ""
+msgstr "Усі типи"
 
 msgctxt "settings"
 msgid "Allows Cloud Save key to be stored locally on device (required to use Cloud Save)"
@@ -320,11 +320,11 @@ msgstr "Анімований GIF"
 
 msgctxt "precise_user_location"
 msgid "Anonymous Location Enabled"
-msgstr ""
+msgstr "Анонімне розташування увімкнено"
 
 msgctxt "precise_user_location"
 msgid "Anonymous location enabled"
-msgstr ""
+msgstr "Анонімне розташування увімкнено"
 
 #. Instant Answer tab name
 msgid "Answer"
@@ -337,20 +337,20 @@ msgstr "У будь-який час"
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-duration"
 msgid "Any duration"
-msgstr ""
+msgstr "Будь-яка тривалість"
 
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-license"
 msgid "Any license"
-msgstr ""
+msgstr "Будь-яка ліцензія"
 
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-resolution"
 msgid "Any resolution"
-msgstr ""
+msgstr "Будь-яка роздільна здатність"
 
 msgid "Any time"
-msgstr ""
+msgstr "Будь-який час"
 
 msgid "Anywhere"
 msgstr "Всюди"
@@ -371,7 +371,7 @@ msgstr "Вигляд"
 
 msgctxt "Custom date range filer"
 msgid "Apply"
-msgstr ""
+msgstr "Застосувати"
 
 #. Instant Answer Tab Name
 msgid "Apps"
@@ -411,7 +411,7 @@ msgstr "Автоматичні пропозиції"
 
 msgctxt "settings"
 msgid "Autocomplete Suggestions"
-msgstr ""
+msgstr "Автозавершення пропозицій"
 
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
@@ -460,7 +460,7 @@ msgstr "Бельгія (нідерландська)"
 
 msgctxt "settingsvalue"
 msgid "Best available"
-msgstr ""
+msgstr "Найкраще доступне"
 
 #. In the right menu panel of the homepage.
 msgid "Beta"
@@ -480,7 +480,7 @@ msgstr "Чорний"
 
 msgctxt "image-color"
 msgid "Black and white"
-msgstr ""
+msgstr "Чорно-білий"
 
 msgid "Block Trackers"
 msgstr "Блокувати стеження"
@@ -534,7 +534,7 @@ msgstr "Переглядайте як завжди, а ми подбаємо п�
 
 msgctxt "precise_user_location"
 msgid "Browser Location Unavailable"
-msgstr ""
+msgstr "Розташування браузера недоступне"
 
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
@@ -542,7 +542,7 @@ msgstr "Мова інтерфейсу браузера"
 
 msgctxt "settingsvalue"
 msgid "Browser preferred language"
-msgstr ""
+msgstr "Бажана мова браузера"
 
 msgid "Bulgaria"
 msgstr "Болгарія"
@@ -551,7 +551,7 @@ msgstr "Болгарія"
 #. Then - http://i.imgur.com/mo6wsE4.png
 msgctxt "settings"
 msgid "By default, settings are stored in non-personal browser cookies (in your browser). You can use anonymous Cloud Save to store your settings in a more permanent way (on a remote server in the cloud). No personally identifiable information will be stored in the cloud, and your passphrase will never leave your browser."
-msgstr ""
+msgstr "Типово, налаштування зберігаються в не персоналізованих файлах cookie вашого браузера. Ви можете скористатися анонімним збереженням своїх налаштувань в хмарному сховищі. Жодна персональна інформація при цьому не зберігатиметься, а парольна фраза ніколи не вийде за межі вашого браузера."
 
 #. Instant Answer tab name
 msgid "Calendar"
@@ -593,7 +593,7 @@ msgstr "Вирівнювання по центру"
 #. http://i.imgur.com/CklQ1Ku.png
 msgctxt "settings"
 msgid "Center-aligns the results page (instead of left-aligned)"
-msgstr ""
+msgstr "Вирівняти сторінку результатів по центру (замість вирівняти ліворуч)"
 
 #. http://i.imgur.com/oO0X6Pt.png
 msgctxt "settings"
@@ -603,12 +603,12 @@ msgstr "Змінює розмір простору, що займає загол
 #. http://i.imgur.com/mcZdcaF.png
 msgctxt "settings"
 msgid "Changes search results based on region"
-msgstr ""
+msgstr "Змінює результати пошуку на основі регіону"
 
 #. http://i.imgur.com/OntTi6e.png
 msgctxt "settings"
 msgid "Changes the background color across the entire site"
-msgstr ""
+msgstr "Змінює колір заднього плану на всьому сайті"
 
 #. http://i.imgur.com/NdpkbY0.png
 msgctxt "settings"
@@ -668,7 +668,7 @@ msgstr "Визначає дію при натисканні на мініатю�
 
 msgctxt "settings"
 msgid "Changes whether the visited checkmark is visible"
-msgstr ""
+msgstr "Показує чи приховує позначки відвіданих результатів"
 
 msgid "Chat"
 msgstr "Чат"
@@ -700,12 +700,12 @@ msgstr "Китай"
 
 #. As in 'Choose to keep DuckDuckGo as your default search engine'. Placeholders are for markup, you can ignore them.
 msgid "Choose %skeep it%s to continue protecting your privacy."
-msgstr ""
+msgstr "Оберіть %sзберегти%s для продовження захисту вашої приватності."
 
 #. http://i.imgur.com/f8Ae6jo.png
 msgctxt "cloudsave"
 msgid "Choose a unique passphrase for your settings."
-msgstr ""
+msgstr "Оберіть унікальну парольну фразу для своїх налаштувань."
 
 msgctxt "maps_places"
 msgid "Choose service"
@@ -731,7 +731,7 @@ msgid "Clear Location"
 msgstr "Очистити розташування"
 
 msgid "Clear all filters"
-msgstr ""
+msgstr "Прибрати всі фільтри"
 
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
@@ -842,7 +842,7 @@ msgstr "Натисніть на збільшувальне скло у вікн�
 #. In the cloud save box - http://i.imgur.com/FbCoYVE.png
 msgctxt "cloudsave"
 msgid "Click or tap %sDelete My Data%s. This removes the data from the cloud, but it remains in your browser until you click/tap %sReset All Settings%s."
-msgstr ""
+msgstr "Натисніть чи торкніться %sВидалити мої дані%s. Ця дія видалить дані з хмарного сховища, однак вони залишаться у вашому браузері доки ви не виберете %sСкинути всі налаштування%s."
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Click the %s icon in the top toolbar"
@@ -862,7 +862,7 @@ msgstr "Клацніть на %sпіктограмі, що має вигляд �
 
 msgctxt "precise_user_location"
 msgid "Click the %slock icon%s on the address bar."
-msgstr ""
+msgstr "Натисніть %sпіктограму замка%s в панелі адреси."
 
 msgid "Click the Duck icon at the top of your browser to search!"
 msgstr "Натисніть зображення качки наверху вашого браузера, щоб почати пошук!"
@@ -937,7 +937,7 @@ msgstr "Хмарне Збереження"
 
 msgctxt "settings"
 msgid "Cloud Save"
-msgstr ""
+msgstr "Зберегти в хмарі"
 
 #. Enable cloud save, then click "Show Bookmarklet and Settings Data" - http://i.imgur.com/leUkNoB.png
 #. Then in the box that opens - http://i.imgur.com/8D4DdF8.png
@@ -979,7 +979,7 @@ msgstr "Налаштування кольорів"
 
 msgctxt "image-color"
 msgid "Color only"
-msgstr ""
+msgstr "Тільки кольорові"
 
 #. In the top menu under Settings
 msgid "Colors"
@@ -1023,7 +1023,7 @@ msgstr "Конвертація"
 #. http://i.imgur.com/fd7EjAN.png
 msgctxt "settings"
 msgid "Cookie data:"
-msgstr ""
+msgstr "Дані файлів cookie:"
 
 msgid "Copy &amp; paste %sabout:preferences#search%s into the address bar"
 msgstr "Копіювати &amp; вставити  %sabout:preferences#search%s в рядок адреси"
@@ -1071,7 +1071,7 @@ msgid "Custom %s"
 msgstr "Вибіркові %s"
 
 msgid "Custom date range"
-msgstr ""
+msgstr "Власний діапазон дат"
 
 msgid "Czech Republic"
 msgstr "Чехія"
@@ -1096,7 +1096,7 @@ msgstr "Фільтри дати"
 
 msgctxt "feedback form"
 msgid "Date filters"
-msgstr ""
+msgstr "Фільтри дати"
 
 #. A theme name in the theme menu:
 #. https://duck.co/media/files/theme.png
@@ -1115,7 +1115,7 @@ msgstr "Визначення"
 #. When anonymous cloud save is enabled, a box is available with a <em>delete your data</em> button at the bottom of <a href="https://duckduckgo.com/settings.html">settings page<a/>.
 #. This token is displayed as a button, so keep it short!
 msgid "Delete My Data"
-msgstr ""
+msgstr "Видалити мої дані"
 
 msgid "Denmark"
 msgstr "Данія"
@@ -1358,7 +1358,7 @@ msgstr ""
 #. http://i.imgur.com/qo0C6MA.png
 msgctxt "settings"
 msgid "Enter a passphrase"
-msgstr ""
+msgstr "Введіть пароль"
 
 msgctxt "maps_directions"
 msgid "Enter start location"
@@ -1381,7 +1381,7 @@ msgstr "Введіть адресу вашої електронної пошти
 #. Then - http://i.imgur.com/K6c3e4L.png
 msgctxt "cloudsave"
 msgid "Enter your passphrase to load your settings."
-msgstr ""
+msgstr "Введіть парольну фразу для завантаження ваших налаштувань."
 
 msgctxt "SERP footer content"
 msgid "Escape The Filter Bubble"
@@ -1408,7 +1408,7 @@ msgstr "Дуже великий"
 
 msgctxt "directions"
 msgid "Fastest route"
-msgstr ""
+msgstr "Найшвидший маршрут"
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1434,14 +1434,14 @@ msgid "Fill in the last form field with %s"
 msgstr "Заповнять останнє поле форми %s"
 
 msgid "Filter by Date"
-msgstr ""
+msgstr "Фільтр за датою"
 
 msgid "Filter by Region"
-msgstr ""
+msgstr "Фільтр за регіоном"
 
 msgctxt "feedback form"
 msgid "Filters aren't working"
-msgstr ""
+msgstr "Фільтри не працюють"
 
 msgid "Final"
 msgstr "Останній"
@@ -1460,7 +1460,7 @@ msgstr "Знайдіть DuckDuckGo у списку і натисніть %sЗр
 
 msgctxt "precise_user_location"
 msgid "Find results closer to you"
-msgstr ""
+msgstr "Знайдіть результати ближчі до вас"
 
 msgctxt "precise_user_location"
 msgid "Find results closer to you."
@@ -1502,22 +1502,22 @@ msgstr "Франція"
 #. a filter for images with the CC BY-NC usage license
 msgctxt "image-licence"
 msgid "Free to Modify, Share, and Use"
-msgstr ""
+msgstr "Безплатно для зміни, поширення та використання"
 
 #. a filter for images with the CC BY usage license
 msgctxt "image-licence"
 msgid "Free to Modify, Share, and Use Commercially"
-msgstr ""
+msgstr "Безплатно для зміни, поширення та комерційного використання"
 
 #. a filter for images with the CC BY-NC-ND usage license
 msgctxt "image-licence"
 msgid "Free to Share and Use"
-msgstr ""
+msgstr "Безплатно для зміни та використання"
 
 #. a filter for images with the CC BY-ND usage license
 msgctxt "image-licence"
 msgid "Free to Share and Use Commercially"
-msgstr ""
+msgstr "Безплатно поширення та комерційного використання"
 
 msgctxt "new user poll"
 msgid "Friend or family"
@@ -1526,7 +1526,7 @@ msgstr "Друг або сім'я"
 #. http://i.imgur.com/tGau0Vx.png
 msgctxt "settings"
 msgid "GET Requests"
-msgstr ""
+msgstr "GET запити"
 
 msgid "Game ended"
 msgstr "Гра закінчилась"
@@ -1589,7 +1589,7 @@ msgstr "Залучайте ваших друзів та домогайте на�
 
 msgctxt "precise_user_location"
 msgid "Go to 'Site Settings'."
-msgstr ""
+msgstr "Перейти в Налаштування сайту."
 
 #  Maxthon default search engine instruction
 msgid "Go to Options."
@@ -1607,7 +1607,7 @@ msgstr "Дудли"
 #. Option selected by user to acknowledge understanding of information
 msgctxt "precise_user_location"
 msgid "Got it"
-msgstr ""
+msgstr "Зрозуміло"
 
 msgctxt "color"
 msgid "Gray"
@@ -1708,12 +1708,12 @@ msgstr "Приховати Найбільш Відвідувані Сайти"
 
 msgctxt "settings"
 msgid "Hide Passphrase"
-msgstr ""
+msgstr "Приховати пароль"
 
 #. Hides details of a step-by-step navigation route
 msgctxt "directions"
 msgid "Hide Steps"
-msgstr ""
+msgstr "Приховати кроки"
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -1722,7 +1722,7 @@ msgstr "Приховує пошуковий запит у вкладці чи і
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-resolution"
 msgid "High definition"
-msgstr ""
+msgstr "Висока роздільна здатність"
 
 #  Chrome default search engine instruction
 msgid "Hit %sReturn%s on your keyboard to %ssave DuckDuckGo to the list. %sThen click %sMake Default%s"
@@ -1730,7 +1730,7 @@ msgstr "Натисніть %sEnter%s на клавіатурі, щоб %sзбе�
 
 #. 'it' refers to the default search engine setting: this is displayed right next to a dialogue inviting users to change their default search engine back to what it was before adopting DuckDuckGo.
 msgid "Hold on! Changing it back will disable the DuckDuckGo extension and you'll lose our privacy protection."
-msgstr ""
+msgstr "Заждіть! Змінивши це назад, ви вимкнете розширення DuckDuckGo і втратите захист приватності."
 
 msgctxt "settings"
 msgid "Homepage Privacy Tips"
@@ -2730,7 +2730,7 @@ msgstr "Помаранчевий"
 
 msgctxt "color"
 msgid "Orange"
-msgstr "Помаранчовий"
+msgstr "Помаранчевий"
 
 msgctxt "feedback form"
 msgid "Other"
@@ -3988,7 +3988,7 @@ msgstr "Торкніться меню у вигляді трьох крапок 
 
 msgctxt "color"
 msgid "Teal"
-msgstr "Бірюзовий"
+msgstr "Зелено-блакитний"
 
 #. An option under "Theme" http://i.imgur.com/fFIMtgl.png
 #. changes the look of DuckDuckGo to a Terminal, like this: http://i.imgur.com/BDN8Tfm.png
@@ -4015,7 +4015,7 @@ msgstr "Дякуємо."
 
 msgctxt "Lock icon next to HTTP search result"
 msgid "That means information sent between your device and the webpage behind this link is at increased risk of being intercepted by a third party. In rare cases this includes passwords, or payment details."
-msgstr "Це означає, що інформація, відправлена між пристроєм і веб-сторінкою, що стоїть за цим посиланням, збільшує ризик перехоплення третьою стороною. У рідкісних випадках, вона включає паролі або платіжні реквізити."
+msgstr "Це означає, що інформація, відправлена між пристроєм і вебсторінкою за цим посиланням, збільшує ризик перехоплення сторонніми особами. У рідкісних випадках, вона включає паролі або платіжні реквізити."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/elru00b.png
@@ -4053,7 +4053,7 @@ msgid "Thesaurus"
 msgstr "Тлумачний словник"
 
 msgid "These browser permissions are used to add privacy protection on websites you visit by blocking hidden trackers, encrypting connections where possible, and by making DuckDuckGo your default search engine."
-msgstr "Ці дозволи для браузера використовуються для додавання захисту приватності на відвідуваних веб-сайтах, блокуючи приховане стеження, шифруючи з'єднання де це можливо, і зробивши DuckDuckGo вашим типовим засобом пошуку."
+msgstr "Ці дозволи для браузера використовуються для додавання захисту приватності на відвідуваних вебсайтах, блокуючи приховане стеження, шифруючи з'єднання де це можливо, і зробивши DuckDuckGo вашим типовим засобом пошуку."
 
 msgctxt "attribution"
 msgid "This Instant Answer was made by the %sDuckDuckHack%s Community."
@@ -4074,7 +4074,7 @@ msgstr "Це відео наразі недоступне для перегля�
 
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
-msgstr "Ця веб-сторінка не використовує захищене, зашифроване, з'єднання (HTTPS)."
+msgstr "Ця вебсторінка не використовує захищене, зашифроване, з'єднання (HTTPS)."
 
 #. In spanish: Esto borrará todos los ajustes. ¿Desea continuar?
 msgctxt "settings"
