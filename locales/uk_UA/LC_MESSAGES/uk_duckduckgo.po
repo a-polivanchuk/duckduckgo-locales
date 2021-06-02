@@ -4,7 +4,7 @@ msgstr ""
 "Last-Translator: Community\n"
 "Language-Team: Ukrainian\n"
 "POT-Creation-Date: 2019-01-16 23:42-0500\n"
-"PO-Revision-Date: 2021-06-02 11:00\n"
+"PO-Revision-Date: 2021-06-02 11:02\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,48 +14,48 @@ msgstr ""
 "X-Crowdin-Project-ID: 392859\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/locales/uk_UA/LC_MESSAGES/duckduckgo.po\n"
-"X-Crowdin-File-ID: 14434\n"
+"X-Crowdin-File-ID: 9046\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr ""
+msgstr "Пошукові ярлики !Bang"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr ""
+msgstr "%s мільярдів пошуків"
 
 msgid "%s blocked by safe search."
-msgstr ""
+msgstr "%s заблоковано безпечним пошуком."
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s days ago"
-msgstr ""
+msgstr "%s днів тому"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
-msgstr ""
+msgstr "%s для %s"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "%s годин тому"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr ""
+msgstr "%s внесків на підтримку приватності!"
 
 #. Places distance in km
 msgid "%s km"
-msgstr ""
+msgstr "%s км"
 
 #. Places distance in miles
 msgid "%s mi"
-msgstr ""
+msgstr "%s миль"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
 msgid "%s on %s"
-msgstr ""
+msgstr "%s на %s"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
@@ -64,24 +64,24 @@ msgstr ""
 # Firefox, obsolete
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%sНатисніть %sДозволити%sНатисніть %sДодати%sВідмітьте %sДозволити%s, а потім натисніть %sГаразд%s"
 
 # Firefox
 msgctxt "install-duckduckgo"
 msgid "%sClick %sContinue To Installation%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%sНатисніть %sПродовжити встановлення%sНатисніть %sДодати%sПозначте %sДозволити%s, а потім натисніть %sГаразд%s"
 
 msgctxt "noresults"
 msgid "%sClick here%s to try again, if you think there should be results for this search."
-msgstr ""
+msgstr "%sНатисніть тут%s, щоб спробувати знову, якщо вважаєте, що для цього пошуку мають бути результати."
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr ""
+msgstr "%sДопоможіть поширити DuckDuckGo!%s"
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
-msgstr ""
+msgstr "%sДокладніше%s."
 
 msgctxt "precise_user_location"
 msgid "%sLearn how we keep your location private%s."
@@ -97,147 +97,147 @@ msgstr ""
 
 # Chrome default search engine instruction
 msgid "%sRight click%s in the search bar"
-msgstr ""
+msgstr "%sНатисніть правою кнопкою миші%s у пошуковому рядку"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
-msgstr ""
+msgstr "1 день тому"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 hour ago"
-msgstr ""
+msgstr "1 годину тому"
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
-msgstr ""
+msgstr "1. Відкрийте %sЗавантаження%s"
 
 msgctxt "install-extension"
 msgid "2. Double-click %sduckduckgo.safariextz%s"
-msgstr ""
+msgstr "2. Двічі клацніть %sduckduckgo.safariextz%s"
 
 #. https://duckduckgo.com/params in the end under " Source:"
 msgid "A string to identify the source."
-msgstr ""
+msgstr "Рядок для визначення джерела."
 
 msgctxt "settings"
 msgid "ATB Dismiss"
-msgstr ""
+msgstr "ATB Пропустити"
 
 msgctxt "settings"
 msgid "ATB related (not displayed on settings page)"
-msgstr ""
+msgstr "Що стосується ATB (не показується на сторінці налаштувань)"
 
 #. In the new DDG website, this token appears as the Tab name for Instant Answers that give general information about a subject. eg. https://duckduckgo.com/?q=Sony
 #. It is not "About DuckDuckGo".
 msgid "About"
-msgstr ""
+msgstr "Про нас"
 
 #. This is the side bar "About" link
 msgctxt "static_page"
 msgid "About"
-msgstr ""
+msgstr "Про нас"
 
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
 msgid "About DuckDuckGo"
-msgstr ""
+msgstr "Про DuckDuckGo"
 
 msgid "About Us"
-msgstr ""
+msgstr "Про нас"
 
 #. Ad like 'advertisement'
 msgid "Ad"
-msgstr ""
+msgstr "Реклама"
 
 msgctxt "feedback form"
 msgid "Ad is annoying"
-msgstr ""
+msgstr "Реклама дратує"
 
 msgctxt "feedback form"
 msgid "Ad is inappropriate"
-msgstr ""
+msgstr "Реклама недоречна"
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
-msgstr ""
+msgstr "Реклама недоречна"
 
 msgctxt "feedback form"
 msgid "Ad is malware"
-msgstr ""
+msgstr "Реклама зловмисна"
 
 msgctxt "feedback form"
 msgid "Ad is suspicious"
-msgstr ""
+msgstr "Реклама підозріла"
 
 #. From Home page, options to "Add DuckDuckGo" to browser or set as home page.
 msgid "Add DuckDuckGo"
-msgstr ""
+msgstr "Додати DuckDuckGo"
 
 msgid "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr ""
+msgstr "Додайте DuckDuckGo Privacy Essentials до свого браузера безплатно одним завантаженням:"
 
 #  IE default search engine instruction
 msgid "Add DuckDuckGo as a search engine"
-msgstr ""
+msgstr "Додати DuckDuckGo пошуковим засобом"
 
 msgid "Add DuckDuckGo to %s"
-msgstr ""
+msgstr "Додати DuckDuckGo до %s"
 
 #. https://duckduckgo.com/search_box near the top
 #. e.g.: Add a DuckDuckGo search box to your site!
 msgid "Add a %s search box to your site!"
-msgstr ""
+msgstr "Додайте поле пошуку %s до вашого сайту!"
 
 msgctxt "directions"
 msgid "Add a starting point and destination to find a route."
-msgstr ""
+msgstr "Додайте початкову точку та місце призначення, щоб знайти маршрут."
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
-msgstr ""
+msgstr "Додати до %s"
 
 msgid "Add to Home Screen"
-msgstr ""
+msgstr "Додати на головний екран"
 
 #. In the top menu under Goodies
 msgid "Add-ons"
-msgstr ""
+msgstr "Додатки"
 
 msgctxt "maps_places"
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 #. https://duckduckgo.com/params near the top under "Privacy Settings"
 msgid "Address bar:"
-msgstr ""
+msgstr "Адресний рядок:"
 
 #. as in multiple advertisements
 msgid "Ads"
-msgstr ""
+msgstr "Реклама"
 
 msgctxt "feedback form"
 msgid "Advertisements"
-msgstr ""
+msgstr "Реклама"
 
 #. http://i.imgur.com/ZG0Mz3R.png
 msgctxt "settings"
 msgid "Advertisements"
-msgstr ""
+msgstr "Реклама"
 
 #. https://duckduckgo.com/params near the top under "Interface Settings"
 msgid "Advertisements:"
-msgstr ""
+msgstr "Реклама:"
 
 msgid "After it downloads and opens, click %sInstall%s"
-msgstr ""
+msgstr "Після завантаження та відкриття, натисніть %sВстановити%s"
 
 msgid "After it downloads, locate the extension file and double-click it to install"
-msgstr ""
+msgstr "Після завантаження, знайдіть файл розширення і двічі клацніть на ньому, щоб встановити"
 
 msgid "All"
-msgstr ""
+msgstr "Всі"
 
 #. a filter for any image with a Creative Commons usage license
 msgctxt "image-licence"
@@ -250,17 +250,17 @@ msgid "All Licenses"
 msgstr ""
 
 msgid "All Places"
-msgstr ""
+msgstr "Усі місця"
 
 msgid "All Regions"
-msgstr ""
+msgstr "Усі регіони"
 
 msgid "All Results"
-msgstr ""
+msgstr "Усі результати"
 
 #. In the top menu under Settings
 msgid "All Settings"
-msgstr ""
+msgstr "Усі налаштування"
 
 msgctxt "settings pages"
 msgid "All Settings"
@@ -295,28 +295,28 @@ msgstr ""
 
 msgctxt "install-duckduckgo"
 msgid "Almost there!"
-msgstr ""
+msgstr "Майже готово!"
 
 msgctxt "homepage onboarding"
 msgid "Already a fan?"
-msgstr ""
+msgstr "Вже шанувальник?"
 
 msgctxt "mobile promotion on desktop"
 msgid "Also search privately on your iPad, iPhone, or Android!"
-msgstr ""
+msgstr "Шукайте безпечно також на iPad, iPhone та Android!"
 
 #. Instant Answer Tab Name
 msgid "Alternatives"
-msgstr ""
+msgstr "Альтернативи"
 
 #. http://i.imgur.com/89c3nJI.png
 msgctxt "settingsvalue"
 msgid "Always play on DuckDuckGo"
-msgstr ""
+msgstr "Завжди відтворювати на DuckDuckGo"
 
 msgctxt "image-type"
 msgid "Animated GIF"
-msgstr ""
+msgstr "Анімований GIF"
 
 msgctxt "precise_user_location"
 msgid "Anonymous Location Enabled"
@@ -328,11 +328,11 @@ msgstr ""
 
 #. Instant Answer tab name
 msgid "Answer"
-msgstr ""
+msgstr "Відповідь"
 
 #. Option for the filter-by-date search.
 msgid "Any Time"
-msgstr ""
+msgstr "У будь-який час"
 
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-duration"
@@ -353,21 +353,21 @@ msgid "Any time"
 msgstr ""
 
 msgid "Anywhere"
-msgstr ""
+msgstr "Всюди"
 
 msgid "App"
-msgstr ""
+msgstr "Додаток"
 
 msgid "App and Extension"
-msgstr ""
+msgstr "Додаток та розширення"
 
 msgid "Appearance"
-msgstr ""
+msgstr "Вигляд"
 
 #. http://i.imgur.com/HWCiPDW.png
 msgctxt "settings"
 msgid "Appearance"
-msgstr ""
+msgstr "Вигляд"
 
 msgctxt "Custom date range filer"
 msgid "Apply"
@@ -375,39 +375,39 @@ msgstr ""
 
 #. Instant Answer Tab Name
 msgid "Apps"
-msgstr ""
+msgstr "Додатки"
 
 msgctxt "feedback form"
 msgid "Are these ads helpful?"
-msgstr ""
+msgstr "Чи корисна ця реклама?"
 
 msgctxt "feedback form"
 msgid "Are these links helpful?"
-msgstr ""
+msgstr "Ці посилання корисні?"
 
 msgid "Argentina"
-msgstr ""
+msgstr "Аргентина"
 
 msgid "As per our privacy policy, we do not collect or share any personal information ourselves. All of this privacy protection happens on your device."
-msgstr ""
+msgstr "Щодо нашої політики безпеки, ми не збираємо чи поширюємо будь-яку особисту інформацію. Увесь захист приватності відбувається на вашому пристрої."
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
-msgstr ""
+msgstr "У DuckDuckGo ми цілком згідні з цим."
 
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 msgid "Australia"
-msgstr ""
+msgstr "Австралія"
 
 msgid "Austria"
-msgstr ""
+msgstr "Австрія"
 
 #. http://i.imgur.com/DIzKQRl.png
 msgctxt "settings"
 msgid "Auto-Suggest"
-msgstr ""
+msgstr "Автоматичні пропозиції"
 
 msgctxt "settings"
 msgid "Autocomplete Suggestions"
@@ -416,47 +416,47 @@ msgstr ""
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
-msgstr ""
+msgstr "Автоматично відкривати доречні Миттєві відповіді"
 
 #. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
 msgid "Average rating: %s out of 5"
-msgstr ""
+msgstr "Середня оцінка: %s з 5"
 
 msgctxt "homepage onboarding"
 msgid "Back to search"
-msgstr ""
+msgstr "Повернутися до пошуку"
 
 #. http://i.imgur.com/6Eip5h1.png
 msgctxt "settings"
 msgid "Background Color"
-msgstr ""
+msgstr "Колір тла"
 
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "Background:"
-msgstr ""
+msgstr "Тло:"
 
 #. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang
 msgid "Bangs"
-msgstr ""
+msgstr "Bangs"
 
 #. Instant Answer tab name
 msgid "Barcode"
-msgstr ""
+msgstr "Штрихкод"
 
 msgctxt "settings"
 msgid "Basic"
-msgstr ""
+msgstr "Загальні"
 
 msgctxt "theme"
 msgid "Basic"
-msgstr ""
+msgstr "Основна"
 
 msgid "Belgium (fr)"
-msgstr ""
+msgstr "Бельгія (французька)"
 
 msgid "Belgium (nl)"
-msgstr ""
+msgstr "Бельгія (нідерландська)"
 
 msgctxt "settingsvalue"
 msgid "Best available"
@@ -464,73 +464,73 @@ msgstr ""
 
 #. In the right menu panel of the homepage.
 msgid "Beta"
-msgstr ""
+msgstr "Бета"
 
 msgctxt "video-duration"
 msgid "Between 4 and 20 minutes"
-msgstr ""
+msgstr "Між 4 та 20 хвилинами"
 
 #. The color black.
 msgid "Black"
-msgstr ""
+msgstr "Чорний"
 
 msgctxt "color"
 msgid "Black"
-msgstr ""
+msgstr "Чорний"
 
 msgctxt "image-color"
 msgid "Black and white"
 msgstr ""
 
 msgid "Block Trackers"
-msgstr ""
+msgstr "Блокувати стеження"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Block advertising trackers."
-msgstr ""
+msgstr "Блокування стеження реклами."
 
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Block unsafe trackers"
-msgstr ""
+msgstr "Блокувати небезпечне стеження"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Blocks trackers on websites you visit"
-msgstr ""
+msgstr "Блокує стеження на відвідуваних вебсайтах"
 
 msgid "Blog"
-msgstr ""
+msgstr "Блог"
 
 #. The color blue
 msgid "Blue"
-msgstr ""
+msgstr "Блакитний"
 
 msgctxt "color"
 msgid "Blue"
-msgstr ""
+msgstr "Блакитний"
 
 #. Click "Show Bookmarklet and Settings Data" - http://i.imgur.com/WyGptiV.png
 #. In the box that opens - http://i.imgur.com/tZAkHF6.png
 msgctxt "settings"
 msgid "Bookmarklet URL:"
-msgstr ""
+msgstr "URL закладки:"
 
 msgid "Brazil"
-msgstr ""
+msgstr "Бразилія"
 
 msgctxt "color"
 msgid "Brown"
-msgstr ""
+msgstr "Коричневий"
 
 msgid "Browse as usual while we add privacy protection. We bundled our search engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr ""
+msgstr "Переглядайте як завжди, в той час, як ми захищаємо вашу приватність. Ми об'єднали наш засіб пошуку, блокування стеження та примусове шифрування в одне %s%s Розширення%s."
 
 msgid "Browse as usual, and we'll take care of the rest. We bundled our search engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr ""
+msgstr "Переглядайте як завжди, а ми подбаємо про решту. Ми об'єднали наш пошуковий механізм, систему блокування стеження та шифрування сайтів у одному %s%s розширенні%s."
 
 msgid "Browse as usual, and we’ll take care of the rest. Get bundled private search, tracker blocking, and site encryption, all in one download, for %smajor browsers%s."
-msgstr ""
+msgstr "Переглядайте як завжди, а ми подбаємо про решту. Отримайте об'єднаний приватний пошуковий засіб, блокування стеження та шифрування сайтів у одному розширенні для %sосновних браузерів%s."
 
 msgctxt "precise_user_location"
 msgid "Browser Location Unavailable"
@@ -538,14 +538,14 @@ msgstr ""
 
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
-msgstr ""
+msgstr "Мова інтерфейсу браузера"
 
 msgctxt "settingsvalue"
 msgid "Browser preferred language"
 msgstr ""
 
 msgid "Bulgaria"
-msgstr ""
+msgstr "Болгарія"
 
 #. Click "Show Bookmarklet and Settings Data" - http://i.imgur.com/NKOWrRl.png
 #. Then - http://i.imgur.com/mo6wsE4.png
@@ -555,39 +555,39 @@ msgstr ""
 
 #. Instant Answer tab name
 msgid "Calendar"
-msgstr ""
+msgstr "Календар"
 
 msgctxt "maps_places"
 msgid "Call"
-msgstr ""
+msgstr "Зателефонувати"
 
 msgid "Canada"
-msgstr ""
+msgstr "Канада"
 
 msgid "Canada (fr)"
-msgstr ""
+msgstr "Канада (французька)"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "precise_user_location"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgid "Careers"
-msgstr ""
+msgstr "Кар'єра"
 
 msgid "Catalonia"
-msgstr ""
+msgstr "Каталонія"
 
 #. In 0-click box -- link to category page.
 msgid "Category"
-msgstr ""
+msgstr "Категорія"
 
 #. http://i.imgur.com/445XWLs.png
 msgctxt "settings"
 msgid "Center Alignment"
-msgstr ""
+msgstr "Вирівнювання по центру"
 
 #. One of the option in DuckDuckGo Search Settings under appearance tab.
 #. http://i.imgur.com/CklQ1Ku.png
@@ -598,7 +598,7 @@ msgstr ""
 #. http://i.imgur.com/oO0X6Pt.png
 msgctxt "settings"
 msgid "Changes how much space the header takes up and what happens to it when you scroll"
-msgstr ""
+msgstr "Змінює розмір простору, що займає заголовок і його поведінку при прокручуванні"
 
 #. http://i.imgur.com/mcZdcaF.png
 msgctxt "settings"
@@ -613,90 +613,90 @@ msgstr ""
 #. http://i.imgur.com/NdpkbY0.png
 msgctxt "settings"
 msgid "Changes the background color when hovering over a result"
-msgstr ""
+msgstr "Змінює колір заднього плану при наведенні курсору над результатом"
 
 #. http://i.imgur.com/awVlAoo.png
 msgctxt "settings"
 msgid "Changes the color of the result URL"
-msgstr ""
+msgstr "Змінює колір URL-адреси результату"
 
 #. http://i.imgur.com/epUhcrA.png
 msgctxt "settings"
 msgid "Changes the color of the result description text"
-msgstr ""
+msgstr "Змінює колір тексту опису результату"
 
 #. http://i.imgur.com/kE1ZsM9.png
 msgctxt "settings"
 msgid "Changes the font across the entire site"
-msgstr ""
+msgstr "Змінює шрифт на всьому сайті"
 
 #. http://i.imgur.com/ftpln8q.png
 msgctxt "settings"
 msgid "Changes the font size across the entire site"
-msgstr ""
+msgstr "Змінює розмір шрифту на всьому сайті"
 
 #. http://i.imgur.com/4AG1u9Q.png
 #. Setting to change the color of the top of DuckDuckGo: http://i.imgur.com/A1Nh20m.png
 msgctxt "settings"
 msgid "Changes the header color across the entire site"
-msgstr ""
+msgstr "Змінює колір заголовка на всьому сайті"
 
 #. http://i.imgur.com/w4XN6Fj.png
 msgctxt "settings"
 msgid "Changes the language across the entire site"
-msgstr ""
+msgstr "Змінює мову на всьому сайті"
 
 msgctxt "settings"
 msgid "Changes the result hover, module, and dropdown background color"
-msgstr ""
+msgstr "Зміна наведення на результат, модуль, а також список вибору кольору"
 
 #. http://i.imgur.com/f1bLTY1.png
 #. Description for "Result Title Color" which changes the color of the results.
 msgctxt "settings"
 msgid "Changes the title link color for each result"
-msgstr ""
+msgstr "Змінює колір посилання заголовка для кожного результату"
 
 #. http://i.imgur.com/5IQda6g.png
 msgctxt "settings"
 msgid "Changes the title link font for each result"
-msgstr ""
+msgstr "Змінює шрифт посилання заголовка для кожного результату"
 
 #. http://i.imgur.com/auITACf.png
 msgctxt "settings"
 msgid "Changes what happens when you click on a video thumbnail"
-msgstr ""
+msgstr "Визначає дію при натисканні на мініатюру відео"
 
 msgctxt "settings"
 msgid "Changes whether the visited checkmark is visible"
 msgstr ""
 
 msgid "Chat"
-msgstr ""
+msgstr "Чат"
 
 msgid "Check %sMake this the current search engine%s"
-msgstr ""
+msgstr "Позначте %sЗробити типовим пошуковим засобом%s"
 
 msgctxt "SERP footer content"
 msgid "Check out our privacy device guides."
-msgstr ""
+msgstr "Ознайомтеся з настановами щодо приватності."
 
 msgctxt "showcase_privacy"
 msgid "Check out our privacy device guides."
-msgstr ""
+msgstr "Ознайомтеся з настановами щодо приватності."
 
 msgctxt "showcase_aria_label"
 msgid "Check out the list of things that we've also made."
-msgstr ""
+msgstr "Ознайомтеся з тим, що ми також зробили."
 
 msgctxt "Report image modal"
 msgid "Child sexual abuse"
-msgstr ""
+msgstr "Сексуальне зловживання стосовно дітей"
 
 msgid "Chile"
-msgstr ""
+msgstr "Чилі"
 
 msgid "China"
-msgstr ""
+msgstr "Китай"
 
 #. As in 'Choose to keep DuckDuckGo as your default search engine'. Placeholders are for markup, you can ignore them.
 msgid "Choose %skeep it%s to continue protecting your privacy."
@@ -709,26 +709,26 @@ msgstr ""
 
 msgctxt "maps_places"
 msgid "Choose service"
-msgstr ""
+msgstr "Вибрати послугу"
 
 #. A theme name in the theme menu:
 #. https://duck.co/media/files/theme.png
 msgid "Classic"
-msgstr ""
+msgstr "Классичний"
 
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 msgctxt "precise_user_location"
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Очистити все"
 
 msgctxt "precise_user_location"
 msgid "Clear Location"
-msgstr ""
+msgstr "Очистити розташування"
 
 msgid "Clear all filters"
 msgstr ""
@@ -736,107 +736,107 @@ msgstr ""
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Clear data in one tap"
-msgstr ""
+msgstr "Зітріть дані одним дотиком"
 
 msgid "Clear your cookies often?"
-msgstr ""
+msgstr "Видаляти всі ваші cookies якомога частіше?"
 
 msgid "Click %s+%s!"
-msgstr ""
+msgstr "Натисніть %s+%s!"
 
 msgctxt "install-duckduckgo"
 msgid "Click %sAdd Extension%s."
-msgstr ""
+msgstr "Натисніть %sДодати Розширення%s."
 
 msgid "Click %sAdd or change home page...%s"
-msgstr ""
+msgstr "Натисніть %sДодати або змінити домашню сторінку...%s"
 
 msgid "Click %sAdd%s"
-msgstr ""
+msgstr "Натисніть %sДодати%s"
 
 msgctxt "install-duckduckgo"
 msgid "Click %sAllow%s, then %sAdd%s."
-msgstr ""
+msgstr "Натисніть %sДозволити%s, а потім %sДодати%s."
 
 #  Firefox 33
 msgid "Click %sChange Search Settings%s in the drop down"
-msgstr ""
+msgstr "Натисніть %sЗмінити налаштування пошуку%s у випадаючому"
 
 #  SeaMonkey default search engine instruction
 msgid "Click %sEdit > Preferences%s (on Windows) %sSeaMonkey > Preferences%s (on Mac)"
-msgstr ""
+msgstr "Натисніть %sРедагувати > Параметри%s (на Windows) %sSeaMonkey > Параметри%s (на Mac)"
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Click %sHere%s to add us as a search engine"
-msgstr ""
+msgstr "Натисніть%sТут%s, щоб додати нас в якості пошукової системи"
 
 msgid "Click %sHere%s to download the DuckDuckGo extension"
-msgstr ""
+msgstr "Натисніть %sТут%s для завантаження розширення DuckDuckGo"
 
 msgid "Click %sOpen%s to download and open the DuckDuckGo Safari extension"
-msgstr ""
+msgstr "Натисніть%s Відкрити%s щоб завантажити і відкрити розширення DuckDuckGo Safari"
 
 #  Edge default search engine instruction
 msgid "Click %sPrivacy and Services%s in the left sidebar."
-msgstr ""
+msgstr "Оберіть %sКонфіденційність і безпека%s на лівій бічній панелі."
 
 #  Safari homepage instruction
 msgid "Click %sSafari%s in the top menu (On Windows, click the %sgears icon%s in the top right)"
-msgstr ""
+msgstr "Клацнiть %sSafari%s у верхньому меню (пiд Windows, клацнiть %siконку з шестернями%s вгорi праворуч)"
 
 msgid "Click %sSettings%s"
-msgstr ""
+msgstr "Натисніть %sНалаштування%s "
 
 #  Edge default search engine instruction
 msgid "Click %sSettings%s in the dropdown."
-msgstr ""
+msgstr "Оберіть %sНалаштування%s з меню вибору."
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Click %sUse current pages%s then %sClick OK%s."
-msgstr ""
+msgstr "Натисніть %sВикористати поточну сторінку%s далі %sНатисніть ОК%s"
 
 #  Firefox 33 / SeaMonkey homepage instruction
 msgid "Click %sYes%s"
-msgstr ""
+msgstr "Клацніть %sТак%s "
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Click %ssettings/hamburger icon %s on the Chrome toolbar (top right)."
-msgstr ""
+msgstr "Натисніть %sналаштування/іконка гамбургера %s на тубі Хрому (в верхній правій частині)"
 
 #  Maxthon default search engine instruction
 msgid "Click OK."
-msgstr ""
+msgstr "Натисніть ОК"
 
 #  Maxthon default search engine instruction
 msgid "Click add."
-msgstr ""
+msgstr "Натисніть додати"
 
 #  Opera default search engine instruction
 msgid "Click on %sBrowser%s in the sidebar"
-msgstr ""
+msgstr "Клікніть на %sБраузер%s в бічній панелі"
 
 #  Firefox default search engine instruction
 msgid "Click on %sChange Search Settings%s in the dropdown menu"
-msgstr ""
+msgstr "Клікніть на %sЗмінити параметри пошуку%s у випадаючому меню"
 
 #  IE 11 default search engine instruction
 msgid "Click on %sSet as Default%s towards the bottom"
-msgstr ""
+msgstr "Натисніть %sВстановити типово%s внизу"
 
 #  IE 11 default search engine instruction
 msgid "Click on the %sSearch Providers%s under Add-on Types"
-msgstr ""
+msgstr "Натисніть на %sПровайдери пошуку%s під типом додатку"
 
 #  IE 11 default search engine instruction
 msgid "Click on the %sTools icon%s in the top-right of the browser"
-msgstr ""
+msgstr "Натисніть на %sпіктограму інструментів%s у верхній правій частині браузера"
 
 #  Firefox default search engine instruction
 msgid "Click on the %smagnifying glass%s in the search bar"
-msgstr ""
+msgstr "Клікніть на %sлупу%s у пошуковому рядку"
 
 msgid "Click on the magnifying glass in the search box at the top right"
-msgstr ""
+msgstr "Натисніть на збільшувальне скло у вікні пошуку в правому верхньому куті"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/FbCoYVE.png
@@ -846,94 +846,94 @@ msgstr ""
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Click the %s icon in the top toolbar"
-msgstr ""
+msgstr "Натисніть на %s зображення, у верхній панелі "
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Click the %s...%s icon at the top right:"
-msgstr ""
+msgstr "Натисніть значок %s...%s в правому верхньому кутку вікна: "
 
 #  Safari homepage instruction
 msgid "Click the %sGeneral%s tab."
-msgstr ""
+msgstr "Натисніть вкладку %sЗагальне%s."
 
 #  Edge default search engine instruction
 msgid "Click the %sellipsis icon%s in the toolbar."
-msgstr ""
+msgstr "Клацніть на %sпіктограмі, що має вигляд трьох точок%s в панелі інструментів."
 
 msgctxt "precise_user_location"
 msgid "Click the %slock icon%s on the address bar."
 msgstr ""
 
 msgid "Click the Duck icon at the top of your browser to search!"
-msgstr ""
+msgstr "Натисніть зображення качки наверху вашого браузера, щоб почати пошук!"
 
 #  UC Browser on Android
 msgid "Click the Expand Icon."
-msgstr ""
+msgstr "Натисніть на значок Розгорнути."
 
 #  UC Browser on Android
 msgid "Click the Search Engine Icon in the Address Bar."
-msgstr ""
+msgstr "Натисніть на значок Пошуковця в Рядку Адреси."
 
 msgid "Click the arrow to the right of the %shome icon%s"
-msgstr ""
+msgstr "Клацнiть стрiлку справа вiд %sдомашньої iконки%s"
 
 msgid "Click the drop down in the search box"
-msgstr ""
+msgstr "Клікніть по випадаючому вікні в полі пошуку"
 
 #  Edge default search engine instruction
 msgid "Click the dropdown menu beside %sSearch engine used in the address bar%s and select %sDuckDuckGo%s."
-msgstr ""
+msgstr "Клацніть меню вибору поряд з %sПошукова система, яка використовується в адресному рядку%s та оберіть %sDuckDuckGo%s."
 
 #  Safari default search engine instruction
 msgid "Click the magnifying glass in the search bar"
-msgstr ""
+msgstr "Натисніть на лупу на панели пошуку"
 
 #  Firefox 33
 msgid "Click the magnifying glass in the search box (at the top of the browser)"
-msgstr ""
+msgstr "Натисніть на збільшувальне скло у вікні пошуку (у верхній частині браузера)"
 
 #  IE default search engine instruction
 msgid "Click this button to get started:"
-msgstr ""
+msgstr "Натисніть цю кнопку щоб розпочати:"
 
 msgid "Click to collapse"
-msgstr ""
+msgstr "Клацніть, щоб згорнути"
 
 msgid "Click to expand"
-msgstr ""
+msgstr "Клацніть, щоб розгорнути"
 
 msgctxt "image-type"
 msgid "Clipart"
-msgstr ""
+msgstr "Кліп-арт"
 
 #  Safari homepage instruction
 msgid "Close window."
-msgstr ""
+msgstr "Закрити вікно"
 
 msgid "Closed"
-msgstr ""
+msgstr "Закрито"
 
 msgctxt "maps_places"
 msgid "Closed"
-msgstr ""
+msgstr "Закрито"
 
 msgctxt "maps_places"
 msgid "Closes"
-msgstr ""
+msgstr "Закривається"
 
 msgctxt "maps_places"
 msgid "Closes soon"
-msgstr ""
+msgstr "Скоро закривається"
 
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud.
 msgid "Cloud Save"
-msgstr ""
+msgstr "Зберегти в хмару"
 
 #. Title for the <em>Save Settings</em> form that is displayed when you click on the <em>Save Settings</em> from the <a href="https://duckduckgo.com/settings.html">settings page</a>.
 msgctxt "cloudsave"
 msgid "Cloud Save"
-msgstr ""
+msgstr "Хмарне Збереження"
 
 msgctxt "settings"
 msgid "Cloud Save"
@@ -943,39 +943,39 @@ msgstr ""
 #. Then in the box that opens - http://i.imgur.com/8D4DdF8.png
 msgctxt "settings"
 msgid "Cloud Save Bookmarklet URL:"
-msgstr ""
+msgstr "URL збереженої в хмарному сховищі закладки:"
 
 #. You need to load cloud save to see the message. http://i.imgur.com/rDsoI7u.png
 msgctxt "cloudsave"
 msgid "Cloud Save Enabled"
-msgstr ""
+msgstr "Збереження в хмарі увімкнено"
 
 #. Self informative <em>Cloud Save FAQ</em> title for the FAQ about how your settings data can be stored anonymously.
 msgctxt "cloudsave"
 msgid "Cloud Save FAQ"
-msgstr ""
+msgstr "FAQ по хмарному сховищу"
 
 #. Expand the Cloud Save box - http://i.imgur.com/1OudbYX.png
 #. At the bottom of the box - http://i.imgur.com/U79ETEb.png
 msgctxt "cloudsave"
 msgid "Cloud Save discussion on duck.co"
-msgstr ""
+msgstr "Обговорення на duck.co про збереження в хмарному сховищі"
 
 #. Introduction of the <em>Cloud Save FAQ</em> <a href="https://duckduckgo.com/settings.html">inside settings page</a>.
 msgctxt "cloudsave"
 msgid "Cloud Save lets you save your settings more permanently by entering a passphrase. It is entirely optional."
-msgstr ""
+msgstr "Хмарне збереження дозволяє вам зберегти ваші налаштування на більш постійній основі, ввівши пароль. Воно зовсім не обов'язкове."
 
 msgid "Colombia"
-msgstr ""
+msgstr "Колумбія"
 
 #. Instant Answer tab name
 msgid "Color"
-msgstr ""
+msgstr "Колір"
 
 #. Title for the <em>Color Settings</em> inside <a href="https://duckduckgo.com/params.html">querry parameters page</em>.
 msgid "Color Settings"
-msgstr ""
+msgstr "Налаштування кольорів"
 
 msgctxt "image-color"
 msgid "Color only"
@@ -983,30 +983,30 @@ msgstr ""
 
 #. In the top menu under Settings
 msgid "Colors"
-msgstr ""
+msgstr "Кольори"
 
 msgid "Comics"
-msgstr ""
+msgstr "Комікси"
 
 #. When suggesting a !newbang in the <a href="https://duckduckgo.com/newbang.html">!newbang page</a>, last field is a free text one for adding <em>comments</em>. This is the label for this field.
 msgid "Comments"
-msgstr ""
+msgstr "Коментарі"
 
 #. Link to duck.co from front page menu
 msgid "Community"
-msgstr ""
+msgstr "Спільнота"
 
 #. Instant Answer Tab Name
 msgid "Concerts"
-msgstr ""
+msgstr "Концерти"
 
 msgid "Congratulations!"
-msgstr ""
+msgstr "Вітаємо!"
 
 #. http://i.imgur.com/epDTyUE.png
 msgctxt "theme"
 msgid "Contrast"
-msgstr ""
+msgstr "Контраст"
 
 #. http://i.imgur.com/G36h64l.png
 #. This setting controls the width of the search results:
@@ -1014,11 +1014,11 @@ msgstr ""
 #. http://i.imgur.com/DiQq2Ll.png
 msgctxt "settings"
 msgid "Controls the width of the search box and results"
-msgstr ""
+msgstr "Контролює ширину пошукової стрічки і результатів"
 
 #. Instant Answer tab name
 msgid "Conversion"
-msgstr ""
+msgstr "Конвертація"
 
 #. http://i.imgur.com/fd7EjAN.png
 msgctxt "settings"
@@ -1026,73 +1026,73 @@ msgid "Cookie data:"
 msgstr ""
 
 msgid "Copy &amp; paste %sabout:preferences#search%s into the address bar"
-msgstr ""
+msgstr "Копіювати &amp; вставити  %sabout:preferences#search%s в рядок адреси"
 
 msgctxt "Report image modal"
 msgid "Copyright violation"
-msgstr ""
+msgstr "Порушення авторських прав"
 
 #. Instant Answer Tab Name
 msgid "Coupons"
-msgstr ""
+msgstr "Купони"
 
 msgctxt "video-license"
 msgid "Creative Commons"
-msgstr ""
+msgstr "Creative Commons"
 
 msgctxt "attribution"
 msgid "Credits"
-msgstr ""
+msgstr "Кредити"
 
 msgid "Croatia"
-msgstr ""
+msgstr "Хорватія"
 
 #. Instant Answer tab name
 msgid "Currency"
-msgstr ""
+msgstr "Валюта"
 
 #. http://i.imgur.com/n6W3M3I.png
 msgctxt "settings"
 msgid "Custom"
-msgstr ""
+msgstr "Особливий"
 
 #. Custom --> 'customized'
 #. A setting that *you* choose and is not a default.
 msgctxt "settingsvalue"
 msgid "Custom"
-msgstr ""
+msgstr "Власний"
 
 msgctxt "settings"
 msgid "Custom %s"
-msgstr ""
+msgstr "Особливий %s"
 
 msgctxt "settingsvalue"
 msgid "Custom %s"
-msgstr ""
+msgstr "Вибіркові %s"
 
 msgid "Custom date range"
 msgstr ""
 
 msgid "Czech Republic"
-msgstr ""
+msgstr "Чехія"
 
 #. A theme name in the theme menu:
 #. https://duck.co/media/files/theme.png
 msgid "Dark"
-msgstr ""
+msgstr "Темна"
 
 #. http://i.imgur.com/07cZIPc.png
 msgctxt "theme"
 msgid "Dark"
-msgstr ""
+msgstr "Темна"
 
 #. Instant Answer tab name
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 msgctxt "feedback form"
 msgid "Date Filters"
-msgstr ""
+msgstr "Фільтри дати"
 
 msgctxt "feedback form"
 msgid "Date filters"
@@ -1101,16 +1101,16 @@ msgstr ""
 #. A theme name in the theme menu:
 #. https://duck.co/media/files/theme.png
 msgid "Default"
-msgstr ""
+msgstr "Стандартна"
 
 #. http://i.imgur.com/BjrIFRp.png
 msgctxt "theme"
 msgid "Default"
-msgstr ""
+msgstr "Стандартна"
 
 #. Instant Answer Tab Name - define a word
 msgid "Definition"
-msgstr ""
+msgstr "Визначення"
 
 #. When anonymous cloud save is enabled, a box is available with a <em>delete your data</em> button at the bottom of <a href="https://duckduckgo.com/settings.html">settings page<a/>.
 #. This token is displayed as a button, so keep it short!
@@ -1118,132 +1118,132 @@ msgid "Delete My Data"
 msgstr ""
 
 msgid "Denmark"
-msgstr ""
+msgstr "Данія"
 
 #. in the Homepage( javasript enabled) in the bottom right. By clicking the "More" button. Under "COMMUNITY" header
 msgid "Develop"
-msgstr ""
+msgstr "Розробляти"
 
 msgctxt "attribution"
 msgid "Developer"
-msgstr ""
+msgstr "Розробник"
 
 #. In 0-click box -- link to definition.
 msgid "Dictionary"
-msgstr ""
+msgstr "Словник"
 
 #. Used in spelling correction, e.g. <a href="https://duckduckgo.com/?q=testingg">https://duckduckgo.com/?q=testingg</a>
 msgid "Did you mean %s?"
-msgstr ""
+msgstr "Ви мали на увазі %s?"
 
 msgctxt "directions"
 msgid "Directions"
-msgstr ""
+msgstr "Маршрути"
 
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
-msgstr ""
+msgstr "Маршрути"
 
 msgctxt "settings"
 msgid "Directions Source"
-msgstr ""
+msgstr "Джерело маршрутів"
 
 #. When Cloud Save is enabled, you can disable it in the bottom of the <a href="https://duckduckgo.com/settings.html">settings page</a>. This token is used in a button, so keep it short !
 msgid "Disable"
-msgstr ""
+msgstr "Вимкнути"
 
 msgctxt "SERP footer content"
 msgid "Discover shortcuts to go to search results on other sites."
-msgstr ""
+msgstr "Відкрийте для себе ярлики, щоб отримувати результати пошуку з інших сайтів."
 
 #. Button that closes the new messagebox suggesting to add DDG, in the homepage.
 msgid "Dismiss"
-msgstr ""
+msgstr "Відхилити"
 
 msgid "Dismiss forever"
-msgstr ""
+msgstr "Не показувати знову"
 
 msgctxt "SERP footer content"
 msgid "Don't Track Us"
-msgstr ""
+msgstr "Не Відстежуйте Нас"
 
 msgctxt "safe search"
 msgid "Don't filter adult content"
-msgstr ""
+msgstr "Не фільтрувати матеріали для дорослих"
 
 #  Chrome default search engine instruction
 msgid "Don't see DuckDuckGo in the list?"
-msgstr ""
+msgstr "Не бачите DuckDuckGo у списку?"
 
 msgctxt "install-extension"
 msgid "Don't see it? %s%s%sClick here to re-download%s"
-msgstr ""
+msgstr "Не бачите? %s%s%sНатисніть тут, щоб завантажити знову%s"
 
 #  IE < 11 default search engine instruction
 msgid "Don't see the checkbox? %sFollow these steps%s."
-msgstr ""
+msgstr "Не бачите де поставити позначку? %sДотримуйтесь наступних кроків%s."
 
 msgctxt "SERP footer content"
 msgid "Donating for Privacy"
-msgstr ""
+msgstr "Внески на підтримку приватності"
 
 msgctxt "precise_user_location"
 msgid "Done"
-msgstr ""
+msgstr "Виконано"
 
 msgid "Download file"
-msgstr ""
+msgstr "Завантажити файл"
 
 #  Firefox 33 / SeaMonkey homepage instruction
 msgid "Drag %sThis Button%s on top of the home icon:"
-msgstr ""
+msgstr "Перетягніть %sЦю клавішу%s на вершину домашнього значка:"
 
 #. Instant Answer Tab Name
 msgid "Drinks"
-msgstr ""
+msgstr "Напої"
 
 msgctxt "directions"
 msgid "Driving"
-msgstr ""
+msgstr "Автомобіль"
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
-msgstr ""
+msgstr "Качкувати"
 
 #. this is either the title that gets created by opening https://duckduckgo.com/duckduckbot or the top header in https://duckduckgo.com/duckduckbot
 msgid "DuckDuckGo Bot"
-msgstr ""
+msgstr "Бот DuckDuckGo"
 
 #. by opening https://duckduckgo.com/api it shows in the window title
 msgid "DuckDuckGo Instant Answer API"
-msgstr ""
+msgstr "DuckDuckGo миттєву відповідь API"
 
 #. by opening https://duckduckgo.com/newbang it shows in the window title
 msgid "DuckDuckGo New !Bang"
-msgstr ""
+msgstr "Новий !Bang від DuckDuckGo"
 
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/privacy.html">privacy page</a>.
 msgid "DuckDuckGo Privacy"
-msgstr ""
+msgstr "Приватність DuckDuckGo"
 
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 msgid "DuckDuckGo Search Box"
-msgstr ""
+msgstr "Рядок пошуку DuckDuckGo"
 
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/settings.html">settings page</a>.
 msgid "DuckDuckGo Settings"
-msgstr ""
+msgstr "Налаштування DuckDuckGo"
 
 #. Link to the settings help in support center from the cloud save section.
 #. You have to click the "What is this?" link to display the link (that is contained on the bottom of a huge paragraph).
 msgid "DuckDuckGo Support Center"
-msgstr ""
+msgstr "Центр підтримки DuckDuckGo"
 
 #. Displayed into your browser's title bar, tab's title, when you visit the <a href="https://duckduckgo.com/params.html">params page</a>.
 #. Bonus : also available through the <head><title>HERE</title></head> tag.
 msgid "DuckDuckGo URL Parameters"
-msgstr ""
+msgstr "DuckDuckGo параметри URL"
 
 msgctxt "precise_user_location"
 msgid "DuckDuckGo is private by design. When you enable location, it is stored on your local device only. When you search, your device then sends it to us, we use it to improve results for that search, and then we promptly throw it away, such that you remain anonymous. %sLearn more about how we designed this technology to protect your privacy%s."
@@ -1254,19 +1254,19 @@ msgid "DuckDuckGo only uses your approximate location. That's all we need to del
 msgstr ""
 
 msgid "DuckDuckGo search"
-msgstr ""
+msgstr "Пошук DuckDuckGo"
 
 #. Used as a link to your personal settings  into the sentence <em>You can change *DuckDuckGo settings* via URL parameters by adding them after the search query</em>. See the <a href="https://duckduckgo.com/params.html">params page</a>.
 msgid "DuckDuckGo settings"
-msgstr ""
+msgstr "Налаштування DuckDuckGo"
 
 msgctxt "forecast"
 msgid "E"
-msgstr ""
+msgstr "Е"
 
 msgctxt "settings"
 msgid "EU Android Welcome Message"
-msgstr ""
+msgstr "Привітальне повідомлення Android від ЄС"
 
 #. Stuff explaining <em>how does passphrase generation work</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
@@ -1278,11 +1278,11 @@ msgstr ""
 #. Form field for your email ;)
 #. From <a href="https://duckduckgo.com/newbang.html ">new !bang page</a> and <a href="https://duckduckgo.com/feedback.html">feedback page</a>.
 msgid "Email"
-msgstr ""
+msgstr "Електронна пошта"
 
 msgctxt "precise_user_location"
 msgid "Enable 'Sites can ask for my location.'"
-msgstr ""
+msgstr "Увімкніть дозвіл для сайтів запитувати ваше розташування."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/fUS6WAi.png
@@ -1292,11 +1292,11 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Enable Location"
-msgstr ""
+msgstr "Увімкнути місцезнаходження"
 
 msgctxt "new tab page"
 msgid "Enable Most Visited Sites"
-msgstr ""
+msgstr "Увімкнути Найбільш Відвідувані Сайти"
 
 msgid "Enable anonymous location for more accurate results. You can always change your mind later."
 msgstr ""
@@ -1307,19 +1307,19 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Enable the Location setting on your phone."
-msgstr ""
+msgstr "Увімкніть налаштування розташування на своєму телефоні."
 
 msgctxt "settings"
 msgid "Enables keyboard shortcuts on the site"
-msgstr ""
+msgstr "Включити сполучення клавіш на клавіатурі для сайту"
 
 msgid "Encrypt Connections"
-msgstr ""
+msgstr "Шифрувати Підключення"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Encrypts connections when possible"
-msgstr ""
+msgstr "Шифрувати з'єднання якщо можливо"
 
 msgctxt "precise_user_location"
 msgid "Ensure %s'Allow'%s is selected for the 'Location' setting."
@@ -1347,7 +1347,7 @@ msgstr ""
 
 #  Opera homepage instruction
 msgid "Enter %shttps://duckduckgo.com%s"
-msgstr ""
+msgstr "Введіть %shttps://duckduckgo.com%s"
 
 #. Click to expand the Cloud Save box: http://i.imgur.com/1OudbYX.png
 #. then locate the text here: http://i.imgur.com/xisuMjL.png
@@ -1362,20 +1362,20 @@ msgstr ""
 
 msgctxt "maps_directions"
 msgid "Enter start location"
-msgstr ""
+msgstr "Введіть початкове розташування"
 
 #  Maxthon default search engine instruction
 #. Alias=pseudônimo: pt_pt
 msgid "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
-msgstr ""
+msgstr "Введіть наступні дані:%sІм'я%s: DuckDuckGo%s URL%s: %s Псевдонім%s: d%s"
 
 msgctxt "maps_directions"
 msgid "Enter your destination"
-msgstr ""
+msgstr "Введіть місце призначення"
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
-msgstr ""
+msgstr "Введіть адресу вашої електронної пошти."
 
 #. Click "Load Settings" - http://i.imgur.com/3czvc4H.png
 #. Then - http://i.imgur.com/K6c3e4L.png
@@ -1385,26 +1385,26 @@ msgstr ""
 
 msgctxt "SERP footer content"
 msgid "Escape The Filter Bubble"
-msgstr ""
+msgstr "Позбудьтеся бульбашки фільтрів"
 
 msgid "Estonia"
-msgstr ""
+msgstr "Естонія"
 
 msgctxt "mobile expanded map"
 msgid "Expand Map"
-msgstr ""
+msgstr "Розгорнути карту"
 
 msgctxt "Report image modal"
 msgid "Explicit content"
-msgstr ""
+msgstr "Відвертий вміст"
 
 #  seen on Opera 9.52, Firefox 33 and Chrome 27 besides homepage instructions; link to e.g. https://help.duckduckgo.com/desktop/opera/
 msgid "Extensions & More"
-msgstr ""
+msgstr "Розширення та інше"
 
 msgctxt "size"
 msgid "Extra Large"
-msgstr ""
+msgstr "Дуже великий"
 
 msgctxt "directions"
 msgid "Fastest route"
@@ -1412,26 +1412,26 @@ msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
-msgstr ""
+msgstr "значки"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Зворотний зв'язок"
 
 msgctxt "feedback form"
 msgid "Feedback Sent"
-msgstr ""
+msgstr "Відгук надіслано"
 
 msgctxt "feedback form"
 msgid "Feedback Sent Successfully"
-msgstr ""
+msgstr "Відгук успішно надіслано"
 
 #. https://duckduckgo.com/search_box
 msgid "Feel free to adjust the settings below. Then, just copy and paste the code into your website."
-msgstr ""
+msgstr "Не соромтеся щодо налаштування параметрів нижче. Потім просто скопіюйте і вставте код у свій веб-сайт. "
 
 #  Chrome default search engine instruction
 msgid "Fill in the last form field with %s"
-msgstr ""
+msgstr "Заповнять останнє поле форми %s"
 
 msgid "Filter by Date"
 msgstr ""
@@ -1444,19 +1444,19 @@ msgid "Filters aren't working"
 msgstr ""
 
 msgid "Final"
-msgstr ""
+msgstr "Останній"
 
 #  IE < 11 default search engine instruction
 msgid "Finally, click %sAdd%s"
-msgstr ""
+msgstr "Насамкінець, натисніть %sДодати%s"
 
 #  Chrome default search engine instruction
 msgid "Find %sDuckDuckGo%s and click%sMake default%s"
-msgstr ""
+msgstr "Знайдіть %sDuckDuckGo%s та клікніть%sЗробити типовим%s"
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Find DuckDuckGo in the displayed list and click %sMake Default%s"
-msgstr ""
+msgstr "Знайдіть DuckDuckGo у списку і натисніть %sЗробити типовим%s"
 
 msgctxt "precise_user_location"
 msgid "Find results closer to you"
@@ -1464,40 +1464,40 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Find results closer to you."
-msgstr ""
+msgstr "Знайдіть результати ближчі до вас."
 
 msgctxt "SERP footer content"
 msgid "Fine-tune Your Search"
-msgstr ""
+msgstr "Налаштувати Ваш Пошук"
 
 msgid "Finland"
-msgstr ""
+msgstr "Фінляндія"
 
 #. Instant Answer Tab Name
 msgid "Flights"
-msgstr ""
+msgstr "Авіарейси"
 
 msgctxt "new user poll"
 msgid "Following us on Twitter"
-msgstr ""
+msgstr "Стежте за нами в Twitter"
 
 #. http://i.imgur.com/JWnlmmo.png
 msgctxt "settings"
 msgid "Font"
-msgstr ""
+msgstr "Шрифт"
 
 #. http://i.imgur.com/rBFnfUF.png
 msgctxt "settings"
 msgid "Font Size"
-msgstr ""
+msgstr "Розмір шрифту"
 
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Force encryption on websites"
-msgstr ""
+msgstr "Примусове шифрування на вебсайтах"
 
 msgid "France"
-msgstr ""
+msgstr "Франція"
 
 #. a filter for images with the CC BY-NC usage license
 msgctxt "image-licence"
@@ -1521,7 +1521,7 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "Friend or family"
-msgstr ""
+msgstr "Друг або сім'я"
 
 #. http://i.imgur.com/tGau0Vx.png
 msgctxt "settings"
@@ -1529,63 +1529,63 @@ msgid "GET Requests"
 msgstr ""
 
 msgid "Game ended"
-msgstr ""
+msgstr "Гра закінчилась"
 
 msgid "Games"
-msgstr ""
+msgstr "Ігри"
 
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #. http://i.imgur.com/wjw27ik.png
 msgctxt "settings"
 msgid "General"
-msgstr ""
+msgstr "Загальне"
 
 msgid "Germany"
-msgstr ""
+msgstr "Німеччина"
 
 #. app --->  "application" as in an iPhone app
 msgid "Get App"
-msgstr ""
+msgstr "Отримати додаток"
 
 msgctxt "maps_maps_module"
 msgid "Get Directions"
-msgstr ""
+msgstr "Отримати маршрути"
 
 msgctxt "SERP footer content"
 msgid "Get New Themes"
-msgstr ""
+msgstr "Отримати Нові Теми"
 
 msgctxt "showcase_app"
 msgid "Get Our App & Extension"
-msgstr ""
+msgstr "Отримати наш додаток та розширення"
 
 msgctxt "showcase_privacy"
 msgid "Get Privacy Tips"
-msgstr ""
+msgstr "Отримати поради щодо приватності"
 
 msgctxt "SERP footer content"
 msgid "Get Started at Duck.com"
-msgstr ""
+msgstr "Почати на Duck.com"
 
 msgid "Get seamless privacy protection on your browser for free with one download:"
-msgstr ""
+msgstr "Отримайте бездоганний захист приватності для вашого браузера безплатно одним завантаженням:"
 
 msgid "Get the non-JS version %s"
-msgstr ""
+msgstr "Отримайте не-JS версію %s"
 
 msgctxt "access_song"
 msgid "Get this song on:"
-msgstr ""
+msgstr "Отримайте цю пісню в "
 
 msgctxt "SERP footer content"
 msgid "Get to DuckDuckGo faster. Share duck.com with your friends."
-msgstr ""
+msgstr "Долучайтеся до DuckDuckGo швидше. Розкажіть про duck.com вашим друзям."
 
 msgctxt "spread_badge"
 msgid "Get your friends to switch and help us grow!"
-msgstr ""
+msgstr "Залучайте ваших друзів та домогайте нам рости!"
 
 msgctxt "precise_user_location"
 msgid "Go to 'Site Settings'."
@@ -1593,16 +1593,16 @@ msgstr ""
 
 #  Maxthon default search engine instruction
 msgid "Go to Options."
-msgstr ""
+msgstr "Перейти до налаштувань"
 
 #  Maxthon default search engine instruction
 msgid "Go to Search Engine."
-msgstr ""
+msgstr "Перейти до пошукової системи "
 
 #. Part of the sentence: "<b>Goodies</b> and no tracking." (used for limited browsers, mobile and co.)
 msgctxt "shortbelieve"
 msgid "Goodies"
-msgstr ""
+msgstr "Дудли"
 
 #. Option selected by user to acknowledge understanding of information
 msgctxt "precise_user_location"
@@ -1611,100 +1611,100 @@ msgstr ""
 
 msgctxt "color"
 msgid "Gray"
-msgstr ""
+msgstr "Сірий"
 
 msgctxt "theme"
 msgid "Gray"
-msgstr ""
+msgstr "Cіра"
 
 msgid "Greece"
-msgstr ""
+msgstr "Греція"
 
 #. <em>kj</em>'s, <em>ky</em>'s and <em>kx</em>'s labels for the header, highlight and URLs color settings query parameters caption into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Green"
-msgstr ""
+msgstr "Зелений"
 
 msgctxt "color"
 msgid "Green"
-msgstr ""
+msgstr "Зелений"
 
 #. Used for various color settings  query parameters values captions into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Grey"
-msgstr ""
+msgstr "Сірий"
 
 msgid "Grid mode disabled for this answer"
-msgstr ""
+msgstr "Режим сітки вимкнено за цю відповідь"
 
 #. http://i.imgur.com/LHG4IZQ.png
 msgctxt "settings"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #. <em>kh</em>'s label for one of the privacy settings query parameters into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "HTTPS:"
-msgstr ""
+msgstr "HTTPS:"
 
 msgctxt "settings"
 msgid "Header Appearance"
-msgstr ""
+msgstr "Зовнішній вигляд заголовка"
 
 #. http://i.imgur.com/ug14CSY.png
 msgctxt "settings"
 msgid "Header Behavior"
-msgstr ""
+msgstr "Поведінка заголовка"
 
 #. http://i.imgur.com/MwUruEO.png
 msgctxt "settings"
 msgid "Header Color"
-msgstr ""
+msgstr "Колір заголовка"
 
 #. <em>ko</em>'s and <em>kj</em>'s label for one of the color or interface settings query parameters into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Header:"
-msgstr ""
+msgstr "Заголовок:"
 
 #. homepage/ bottom right under More.
 msgid "Help"
-msgstr ""
+msgstr "Допомога"
 
 msgctxt "precise_user_location"
 msgid "Help"
-msgstr ""
+msgstr "Допомога"
 
 msgctxt "feedback form"
 msgid "Help DuckDuckGo%s improve searches like this"
-msgstr ""
+msgstr "Допоможіть DuckDuckGo%s покращити такі пошуки, як цей"
 
 msgctxt "settings"
 msgid "Help Improve DuckDuckGo"
-msgstr ""
+msgstr "Допоможіть покращити DuckDuckGo"
 
 msgctxt "SERP footer content"
 msgid "Help Spread DuckDuckGo"
-msgstr ""
+msgstr "Допоможіть поширити  DuckDuckGo"
 
 msgid "Help Spread Privacy"
-msgstr ""
+msgstr "Допоможіть поширити приватність"
 
 msgctxt "SERP footer content"
 msgid "Help us raise the standard of trust online."
-msgstr ""
+msgstr "Допоможіть нам підняти стандарт довіри онлайн."
 
 msgctxt "showcase_spread"
 msgid "Help your friends and family join the Duck Side!"
-msgstr ""
+msgstr "Допоможіть друзям та родині почати користуватися DuckDuckGo!"
 
 msgctxt "showcase_aria_dropdown"
 msgid "Here are some things that we made that you might like."
-msgstr ""
+msgstr "Ось деякі зроблені нами речі, які можуть вам сподобатися."
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Here's what it does:"
-msgstr ""
+msgstr "Ось що воно робить:"
 
 msgctxt "new tab page"
 msgid "Hide Most Visited Sites"
-msgstr ""
+msgstr "Приховати Найбільш Відвідувані Сайти"
 
 msgctxt "settings"
 msgid "Hide Passphrase"
@@ -1717,7 +1717,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
-msgstr ""
+msgstr "Приховує пошуковий запит у вкладці чи історії браузера"
 
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-resolution"
@@ -1726,7 +1726,7 @@ msgstr ""
 
 #  Chrome default search engine instruction
 msgid "Hit %sReturn%s on your keyboard to %ssave DuckDuckGo to the list. %sThen click %sMake Default%s"
-msgstr ""
+msgstr "Натисніть %sEnter%s на клавіатурі, щоб %sзберегти DuckDuckGo до списку. %sПотім натисніть %sЗробити типовим%s"
 
 #. 'it' refers to the default search engine setting: this is displayed right next to a dialogue inviting users to change their default search engine back to what it was before adopting DuckDuckGo.
 msgid "Hold on! Changing it back will disable the DuckDuckGo extension and you'll lose our privacy protection."
@@ -1734,39 +1734,39 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Homepage Privacy Tips"
-msgstr ""
+msgstr "Поради щодо приватності на домашній сторінці"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Гонконг"
 
 msgctxt "maps_places"
 msgid "Hours"
-msgstr ""
+msgstr "Години"
 
 msgctxt "SERP footer content"
 msgid "How We Are Profitable"
-msgstr ""
+msgstr "Яким чином ми заробляємо"
 
 #. Title for the stuffs explaining <em>how to change your passphrase</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How do I change my passphrase?"
-msgstr ""
+msgstr "Як я можу змінити свій пароль?"
 
 #. Title for the stuffs explaining <em>how the cloud save works</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How does it work?"
-msgstr ""
+msgstr "Як це працює?"
 
 #. Title for the stuffs explaining <em>how does passphrase generation work</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How does passphrase generation work?"
-msgstr ""
+msgstr "Як працює генерація паролів?"
 
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. Title for a small paragraph about how DuckDuckGo doesn't store <strong>ANY</strong> personal informations (including your username). How are you BTW for asking this???
@@ -1774,18 +1774,18 @@ msgstr ""
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How is it anonymous?"
-msgstr ""
+msgstr "Наскільки це анонімно?"
 
 msgctxt "forecast"
 msgid "Humidity"
-msgstr ""
+msgstr "Вологість"
 
 msgid "Hungary"
-msgstr ""
+msgstr "Угорщина"
 
 msgctxt "feedback form"
 msgid "I don't want this type of result"
-msgstr ""
+msgstr "Я не хочу отримувати такі результати"
 
 msgctxt "feedback form"
 msgid "I expected to see results from more sellers"
@@ -1796,7 +1796,7 @@ msgstr ""
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "I forgot my passphrase. Can you recover it?"
-msgstr ""
+msgstr "Я забув свій пароль. Ви можете його відновити?"
 
 msgctxt "precise_user_location"
 msgid "If the browser location remains unavailable, then go to %sSettings > General > Reset > 'Reset Location & Privacy'%s."
@@ -1808,22 +1808,22 @@ msgstr ""
 
 #  Chrome default search engine instruction
 msgid "If you don't see %sDuckDuckGo,%s you will need to add it to the list of %sOther Search Engines%s"
-msgstr ""
+msgstr "Якщо ви не бачите %sDuckDuckGo,%s вам потрібно буде додати його до списку %sінших пошукових засобів%s"
 
 #. http://i.imgur.com/ReKkJtU.png
 msgctxt "settings"
 msgid "If you still want to support us, %shelp spread DuckDuckGo%s"
-msgstr ""
+msgstr "Якщо ви бажаєте підтримати нас, то %sдопоможіть нам поширити DuckDuckGo%s "
 
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. Message displayed at the bottom of the page, informing you that you can't use the settings page without Java Script activated into your browser. <em>%s</em> and <em>%s</em> are respectively for (raw) <em>HTML</em> and <em>lite</em> versions.
 #.
 msgid "If you want to use DuckDuckGo without JavaScript, please use our %s or %s versions."
-msgstr ""
+msgstr "Якщо Ви хочете використовувати DuckDuckGo без JavaScript будь ласка використовуйте %s або %s версію сайту"
 
 #  Safari homepage instruction
 msgid "If you want, select Home Page next to New windows and New tabs (open with)."
-msgstr ""
+msgstr "Якщо ви бажаєте, виберіть Домашня Сторінка одразу біля Нові Вікна і Нові Вкладки (відкрити з допомогою)"
 
 msgctxt "settingsvalue"
 msgid "Image tiles"
@@ -1831,10 +1831,10 @@ msgstr ""
 
 #. Used in the !bang dropdown.
 msgid "Images"
-msgstr ""
+msgstr "Зображення"
 
 msgid "In partnership with"
-msgstr ""
+msgstr "У партнерстві з"
 
 msgctxt "settings"
 msgid "In some older browsers, it's necessary to redirect your clicks through our server to prevent search leakage. %sLearn more%s."
@@ -1842,7 +1842,7 @@ msgstr ""
 
 #  SeaMonkey default search engine instruction
 msgid "In the drop down select %sDuckDuckGo%s!"
-msgstr ""
+msgstr "У випадаючому меню виберіть%sDuckDuckGo%s!"
 
 #. Explanations for <em>how does the settings cloud save works</em> paragraph.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
@@ -1852,121 +1852,121 @@ msgid "In the interest of transparency, this data is not encrypted: You can see 
 msgstr ""
 
 msgid "In the menu at the top select %sTools%s > %sSettings%s"
-msgstr ""
+msgstr "В меню вверху вибери %sІнструменти%s > %sНалаштування%s"
 
 #  IE < 11 default search engine instruction
 msgid "In the popup, check %sMake this my default search provider%s"
-msgstr ""
+msgstr "У виринаючому вікні встановіть позначку %sЗробити типовим пошуковим засобом%s"
 
 #  IE 11 default search engine instruction
 #. No emerxente, pulsa %sEngadir%s
 msgid "In the popup, click %sAdd%s"
-msgstr ""
+msgstr "У виринаючому вікні натисніть %sДодати%s"
 
 #  SeaMonkey default search engine instruction
 msgid "In the side menu select %sInternet Search%s"
-msgstr ""
+msgstr "В бічному меню виберіть %sInternet Search%s"
 
 #. e.g., 'Including results for Mozart' (when the user searched for 'Mozar')
 msgid "Including results for %s"
 msgstr ""
 
 msgid "India"
-msgstr ""
+msgstr "Індія"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "Індонезія"
 
 msgid "Indonesia (en)"
-msgstr ""
+msgstr "Індонезія (англійська)"
 
 #. http://i.imgur.com/7VuBXGO.png
 #. This setting used to be called 'Auto-Load'
 #. Please update this translation if it no longer applies
 msgctxt "settings"
 msgid "Infinite Scroll"
-msgstr ""
+msgstr "Нескінченне прокручування"
 
 #. This setting used to be called 'Auto-Load Images'
 #. Please update this translation if it no longer applies
 msgctxt "settings"
 msgid "Infinite Scroll for Images"
-msgstr ""
+msgstr "Нескінченне прокручування для зображень"
 
 msgctxt "settings"
 msgid "Infinite Scroll for Images and Videos"
-msgstr ""
+msgstr "Нескінченне прокручування для зображень та відео"
 
 msgctxt "settings"
 msgid "Infinite Scroll for Images, Videos, and Shopping"
 msgstr ""
 
 msgid "Install"
-msgstr ""
+msgstr "Встановити"
 
 msgctxt "homepage onboarding"
 msgid "Install DuckDuckGo"
-msgstr ""
+msgstr "Встановити DuckDuckGo"
 
 msgctxt "settings"
 msgid "Install DuckDuckGo"
-msgstr ""
+msgstr "Встановити DuckDuckGo"
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
 msgid "Install DuckDuckGo Safari Extension?"
-msgstr ""
+msgstr "Встановити розширення DuckDuckGo для Safari?"
 
 #. in https://duckduckgo.com/api/, topmost header
 msgid "Instant Answer API"
-msgstr ""
+msgstr "Миттєва відповідь API"
 
 #. http://i.imgur.com/XW6brqX.png
 msgctxt "settings"
 msgid "Instant Answers"
-msgstr ""
+msgstr "Миттєві відповіді"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Intense green"
-msgstr ""
+msgstr "Насичений зелений"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Intense red"
-msgstr ""
+msgstr "Насичений червоний"
 
 #. Title for one of the <a href="https://duckduckgo.com/params.html">URL params page section</a>.
 msgid "Interface Settings"
-msgstr ""
+msgstr "Налаштування інтерфейсу"
 
 msgctxt "homepage onboarding"
 msgid "Invite friends to the Duck Side!"
-msgstr ""
+msgstr "Запросіть друзів на Duck сторону!"
 
 msgid "Ireland"
-msgstr ""
+msgstr "Ірландія"
 
 #. Title for information about this question. The answer is only <strong>YES</strong>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "Is deleted data really deleted?"
-msgstr ""
+msgstr "Видалені дані дійсно видалили?"
 
 msgctxt "feedback form"
 msgid "Is this video helpful?"
 msgstr ""
 
 msgid "Israel"
-msgstr ""
+msgstr "Ізраїль"
 
 msgctxt "settings"
 msgid "It's okay to (very infrequently) ask me about my experience using DuckDuckGo"
-msgstr ""
+msgstr "Я не проти повідомляти (дуже рідко) про мій досвід використання DuckDuckGo"
 
 msgid "Italy"
-msgstr ""
+msgstr "Італія"
 
 msgid "Items"
-msgstr ""
+msgstr "Елементи"
 
 #. https://duckduckgo.com/settings near the bottom, under "Cloud Save", by clicking "What's this", under "How does passphrase generation work?"
 msgctxt "cloudsave"
@@ -1974,78 +1974,78 @@ msgid "It’s easier to remember 4-5 words than 10 random letters and numbers, a
 msgstr ""
 
 msgid "Japan"
-msgstr ""
+msgstr "Японія"
 
 #. Instant Answer Tab Name (below the search box, above the results)
 msgid "Jobs"
-msgstr ""
+msgstr "Робота"
 
 msgctxt "SERP footer content"
 msgid "Join Our Team!"
-msgstr ""
+msgstr "Приєднуйтесь до нашої команди!"
 
 msgctxt "showcase_donate"
 msgid "Join our $500,000 Privacy Challenge"
-msgstr ""
+msgstr "Приєднуйтеся до нашого змагання з приватності - $500,000"
 
 msgid "Keep in Touch"
-msgstr ""
+msgstr "Залишайтеся на зв'язку"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Keep your search history private."
-msgstr ""
+msgstr "Ваша історія пошуку залишається приватною."
 
 #. Section heading (for right column).
 msgctxt "settings"
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Комбінації клавіш"
 
 msgid "Korea"
-msgstr ""
+msgstr "Корея"
 
 #. http://i.imgur.com/L74c87B.png
 #. Adjusts the displayed language of DuckDuckGo (translations)
 msgctxt "settings"
 msgid "Language"
-msgstr ""
+msgstr "Мова"
 
 #. http://i.imgur.com/6jwHONe.png
 msgctxt "settingsvalue"
 msgid "Large"
-msgstr ""
+msgstr "Великий"
 
 #. http://i.imgur.com/N9w4CgT.png
 msgctxt "size"
 msgid "Large"
-msgstr ""
+msgstr "Великий"
 
 #. http://i.imgur.com/gwulPSF.png
 msgctxt "settingsvalue"
 msgid "Larger"
-msgstr ""
+msgstr "Більший"
 
 #. http://i.imgur.com/n8wzFYd.png
 msgctxt "size"
 msgid "Larger"
-msgstr ""
+msgstr "Більший"
 
 #. http://i.imgur.com/xdSUFar.png
 #. In the dropdown menu for, "Font Size"
 msgctxt "settingsvalue"
 msgid "Largest"
-msgstr ""
+msgstr "Найбільший"
 
 #. http://i.imgur.com/AmVRhlP.png
 msgctxt "size"
 msgid "Largest"
-msgstr ""
+msgstr "Найбільший"
 
 msgid "Latvia"
-msgstr ""
+msgstr "Латвія"
 
 #. Button that opens more informations in the new messagebox suggesting to add DDG, in the homepage.
 msgid "Learn %sMore%s"
-msgstr ""
+msgstr "Дізнатися %sБільше%s"
 
 #. Coñecer, ter coñecemento...
 #. Option at the bottom of the homepage: http://i.imgur.com/HEtEDYE.png
@@ -2055,68 +2055,68 @@ msgstr ""
 #. 了解更多%s%s
 msgctxt "frontpage"
 msgid "Learn %sMore%s"
-msgstr ""
+msgstr "Дізнатися %sбільше%s"
 
 msgctxt "SERP footer content"
 msgid "Learn About Bangs"
-msgstr ""
+msgstr "Дізнатися про Bangs"
 
 msgctxt "SERP footer content"
 msgid "Learn About DuckDuckGo"
-msgstr ""
+msgstr "Дізнатися про DuckDuckGo"
 
 msgctxt "showcase_newsletter"
 msgid "Learn about online privacy right in your inbox."
-msgstr ""
+msgstr "Отримувати матеріали стосовно приватності на свою пошту."
 
 msgctxt "SERP footer content"
 msgid "Learn how to protect your privacy."
-msgstr ""
+msgstr "Дізнатися, як захистити свою приватність."
 
 msgctxt "SERP footer content"
 msgid "Learn how to search like the pros."
-msgstr ""
+msgstr "Навчіться шукати, як професіонали."
 
 msgctxt "SERP footer content"
 msgid "Learn how we're dedicated to keeping you safe online."
-msgstr ""
+msgstr "Ознайомтеся з нашою відданістю збереження безпеки в Інтернеті."
 
 msgctxt "SERP footer content"
 msgid "Learn how you can free yourself from Google for good."
-msgstr ""
+msgstr "Дізнайтеся, які ви можете отримати переваги, звільнившись від Google."
 
 msgctxt "SERP footer content"
 msgid "Learn why reducing online tracking is important."
-msgstr ""
+msgstr "Дізнайтеся, чому так важливо зменшити стеження в Інтернеті."
 
 msgctxt "showcase_tracking"
 msgid "Learn why reducing tracking is important."
-msgstr ""
+msgstr "Дізнайтеся, чому так важливо зменшити стеження."
 
 #. Discontinued, don't translate
 msgctxt "placement"
 msgid "Left"
-msgstr ""
+msgstr "Ліворуч"
 
 msgid "Legal"
-msgstr ""
+msgstr "Юридичні відомості"
 
 msgctxt "video-duration"
 msgid "Less than 4 minutes"
-msgstr ""
+msgstr "Менше ніж 4 хвилини"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Lets you search anonymously with DuckDuckGo"
-msgstr ""
+msgstr "Дозволяє користуватися анонімним пошуком з DuckDuckGo"
 
 #. Discontinued, don't translate
 msgid "Light blue"
-msgstr ""
+msgstr "Cвітло-блакитний"
 
 #. Discontinued, don't translate
 msgid "Light green"
-msgstr ""
+msgstr "Cвітло-зелений"
 
 #. i.e. a type of image comprised of lines without gradiations in shade or hue
 msgctxt "image-type"
@@ -2125,51 +2125,51 @@ msgstr ""
 
 #. https://duckduckgo.com/params under "Look & Feel Settings"
 msgid "Link font:"
-msgstr ""
+msgstr "Шрифт посилання:"
 
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "Links:"
-msgstr ""
+msgstr "Посилання:"
 
 #. Used in 0-click bot for video results, e.g. <a href="https://duckduckgo.com/?q=blink182+song">https://duckduckgo.com/?q=blink182+song</a>
 msgid "Listen"
-msgstr ""
+msgstr "Слухати"
 
 msgid "Lithuania"
-msgstr ""
+msgstr "Литва"
 
 #. http://i.imgur.com/1LeciXQ.png
 msgctxt "settings"
 msgid "Load"
-msgstr ""
+msgstr "Завантажити"
 
 #. Discontinued, don't translate
 msgid "Load Cloud Settings"
-msgstr ""
+msgstr "Завантажити налаштування з хмари"
 
 #. After clicking, "Load Settings" this appears as the title of that section: http://i.imgur.com/rJseWa6.png
 msgctxt "cloudsave"
 msgid "Load Cloud Settings"
-msgstr ""
+msgstr "Завантажити Налаштування Хмаринки"
 
 #. In the search results page, when auto-loading is disabled, a button labeled "Load More" is shown to allow loading more results.
 msgid "Load More"
-msgstr ""
+msgstr "Завантажити більше"
 
 #. http://i.imgur.com/7hi4hEj.png
 msgid "Load Settings"
-msgstr ""
+msgstr "Завантажити налаштування"
 
 msgid "Loading..."
-msgstr ""
+msgstr "Завантаження..."
 
 msgctxt "settings"
 msgid "Loads more image and video results when scrolling"
-msgstr ""
+msgstr "Завантаження інших результатів для зображень та відео при прокручуванні"
 
 msgctxt "settings"
 msgid "Loads more image results when scrolling"
-msgstr ""
+msgstr "Завантаження результатів пошуку зображень при прокручуванні"
 
 msgctxt "settings"
 msgid "Loads more results in Images, Videos, and Shopping when scrolling"
@@ -2178,60 +2178,60 @@ msgstr ""
 #. http://i.imgur.com/WTkvs9I.png
 msgctxt "settings"
 msgid "Loads more results when scrolling"
-msgstr ""
+msgstr "Завантажує більше результатів коли прокручувати"
 
 msgctxt "settings"
 msgid "Location"
-msgstr ""
+msgstr "Розташування"
 
 msgctxt "precise_user_location"
 msgid "Location information is stored only on your device."
-msgstr ""
+msgstr "Інформація про місцезнаходження зберігається тільки на вашому пристрої."
 
 msgctxt "video-duration"
 msgid "Long"
-msgstr ""
+msgstr "Довго"
 
 #. in https://duckduckgo.com/params
 #. bold header
 msgid "Look & Feel Settings"
-msgstr ""
+msgstr "Налаштування зовнішнього вигляду"
 
 msgctxt "spread_badge"
 msgid "Love DuckDuckGo?"
-msgstr ""
+msgstr "Подобається DuckDuckGo?"
 
 msgctxt "noresults"
 msgid "Make sure all words are spelled correctly."
-msgstr ""
+msgstr "Впевніться, що всі слова вимовляються правильно."
 
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
-msgstr ""
+msgstr "Переконайтесь, що встановили позначку %s\"Зробити типовим пошуковим засобом\"%s"
 
 msgctxt "directions"
 msgid "Make sure your search is spelled correctly."
-msgstr ""
+msgstr "Переконайтеся, що ви правильно написали ваш пошуковий запит."
 
 msgid "Malaysia"
-msgstr ""
+msgstr "Малайзія"
 
 msgid "Malaysia (en)"
-msgstr ""
+msgstr "Малайзія (англійська)"
 
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Map"
-msgstr ""
+msgstr "Мапа"
 
 msgctxt "settings"
 msgid "Map Rendering"
-msgstr ""
+msgstr "Візуалізація карти"
 
 msgid "Maps"
-msgstr ""
+msgstr "Мапи"
 
 msgctxt "feedback form"
 msgid "Maps"
-msgstr ""
+msgstr "Мапи"
 
 msgctxt "feedback form"
 msgid "Maps / location info"
@@ -2243,98 +2243,98 @@ msgstr ""
 
 #. In 0-click box -- for disambiguation.
 msgid "Meanings"
-msgstr ""
+msgstr "Значення"
 
 msgctxt "settingsvalue"
 msgid "Medium"
-msgstr ""
+msgstr "Середній"
 
 #. http://i.imgur.com/Gy9D9Bx.png
 msgctxt "size"
 msgid "Medium"
-msgstr ""
+msgstr "Середній"
 
 msgctxt "video-duration"
 msgid "Medium"
-msgstr ""
+msgstr "Середній"
 
 #. Header for front page menu
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgctxt "maps_places"
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgctxt "settingsvalue"
 msgid "Metric (Kilograms, Meters, Celsius)"
-msgstr ""
+msgstr "Метрична (Кілограми, Метри, градуси Цельсія)"
 
 msgctxt "settingsvalue"
 msgid "Metric (kilograms, meters, Celsius)"
 msgstr ""
 
 msgid "Mexico"
-msgstr ""
+msgstr "Мексика"
 
 #. Discontinued, don't translate
 msgctxt "placement"
 msgid "Middle"
-msgstr ""
+msgstr "Посередині"
 
 msgctxt "settings"
 msgid "Mobile Instructions (not displayed on settings page)"
-msgstr ""
+msgstr "Інструкції для мобільних пристроїв (не відображається на сторінці налаштувань)"
 
 msgctxt "safe search"
 msgid "Moderate"
-msgstr ""
+msgstr "Помірний"
 
 msgctxt "settingsvalue"
 msgid "Moderate"
-msgstr ""
+msgstr "Помірний"
 
 #. Used to point to additional social networking profiles (in results).
 msgid "More"
-msgstr ""
+msgstr "ще"
 
 #. Link to load more page context
 msgctxt "additional"
 msgid "More"
-msgstr ""
+msgstr "Більше"
 
 #. As in Learn More
 msgctxt "frontpage"
 msgid "More"
-msgstr ""
+msgstr "Більше"
 
 msgid "More Images"
-msgstr ""
+msgstr "Більше зображень"
 
 msgid "More Info"
-msgstr ""
+msgstr "Докладніше"
 
 msgctxt "Ads GDPR, internal use only. Do not change"
 msgid "More Info"
 msgstr ""
 
 msgid "More Links"
-msgstr ""
+msgstr "Інші посилання"
 
 msgid "More News"
-msgstr ""
+msgstr "Більше новин"
 
 msgid "More Places"
-msgstr ""
+msgstr "Більше Місць"
 
 msgid "More Products"
-msgstr ""
+msgstr "Більше Продуктів"
 
 msgid "More Recipes"
-msgstr ""
+msgstr "Більше рецептів"
 
 msgid "More Related Topics"
-msgstr ""
+msgstr "Більше Пов'язаних Тем"
 
 #. e.g., 'More Reviews on Tripadvisor'
 msgctxt "more_reviews_on_external_website"
@@ -2342,72 +2342,72 @@ msgid "More Reviews on %s "
 msgstr ""
 
 msgid "More Themes"
-msgstr ""
+msgstr "Більше тем"
 
 msgid "More Videos"
-msgstr ""
+msgstr "Більше відео"
 
 msgid "More about !bangs"
-msgstr ""
+msgstr "Більше про !bangs"
 
 #. "More at [link]"
 msgid "More at"
-msgstr ""
+msgstr "Більше тут:"
 
 #. In 0-click box -- %s will be a site name, like Wikipedia.
 msgid "More at %s"
-msgstr ""
+msgstr "Більше на %s"
 
 #. Instant answer link to source, e.g. "More at Wikipedia"
 msgid "More at %s "
-msgstr ""
+msgstr "Більше на %s"
 
 #. More from [domain], used in 'site:' search.
 msgid "More from"
-msgstr ""
+msgstr "Більше з"
 
 msgctxt "precise_user_location"
 msgid "More info"
-msgstr ""
+msgstr "Докладніше"
 
 msgid "More on %s "
-msgstr ""
+msgstr "Більше на %s "
 
 #. A link to get more results from a particular domain.
 msgid "More results"
-msgstr ""
+msgstr "Інші результати"
 
 msgctxt "additional_info_at"
 msgid "More results"
-msgstr ""
+msgstr "Більше результатів"
 
 msgctxt "video-duration"
 msgid "More than 20 minutes"
-msgstr ""
+msgstr "Більше ніж 20 хвилин"
 
 #. e.g. More ways to add DuckDuckGo to Firefox
 msgctxt "frontpage"
 msgid "More ways to add DuckDuckGo to %s"
-msgstr ""
+msgstr "Більше способів додати DuckDuckGo в %s"
 
 msgctxt "precise_user_location"
 msgid "Move map to set current location"
-msgstr ""
+msgstr "Перемістіть мапу щоб встановити поточне розташування"
 
 #. Instant Answer Tab Name
 msgid "Movies"
-msgstr ""
+msgstr "Фільми"
 
 msgctxt "settings"
 msgid "Multi-Step Add-to-Browser Onboarding Step"
-msgstr ""
+msgstr "Один з багатьох кроків доповнення до браузера"
 
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Muted red"
-msgstr ""
+msgstr "Приглушений червоний"
 
 msgctxt "forecast"
 msgid "N"
@@ -2428,7 +2428,7 @@ msgstr ""
 
 msgctxt "directions"
 msgid "Navigate in"
-msgstr ""
+msgstr "Навігація"
 
 msgctxt "precise_user_location"
 msgid "Navigate to Setting > Apps."
@@ -2436,56 +2436,56 @@ msgstr ""
 
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
-msgstr ""
+msgstr "Поруч"
 
 msgid "Netherlands"
-msgstr ""
+msgstr "Нідерланди"
 
 msgctxt "settings"
 msgid "New Tab Page Most Visited Sites"
-msgstr ""
+msgstr "Найчастіше відвідувані сайти на сторінці нової вкладки"
 
 msgid "New Zealand"
-msgstr ""
+msgstr "Нова Зеландія"
 
 msgctxt "new user poll"
 msgid "New browser or computer"
-msgstr ""
+msgstr "Новий браузер або комп'ютер"
 
 msgctxt "new user poll"
 msgid "New to DuckDuckGo?"
-msgstr ""
+msgstr "Вперше в DuckDuckGo?"
 
 #. Used in the !bang dropdown menu.
 msgid "News"
-msgstr ""
+msgstr "Новини"
 
 #. http://i.imgur.com/1QgHl7k.png
 msgid "News Articles"
-msgstr ""
+msgstr "Новини"
 
 #. Click "Reset All Settings" first on the settings page - http://i.imgur.com/3ucg9el.png
 #. Then - http://i.imgur.com/1wBBIxW.png
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 msgctxt "noresults"
 msgid "No %s found for %s%s%s."
-msgstr ""
+msgstr "Не знайдено %s для %s%s%s."
 
 msgctxt "directions"
 msgid "No Available Routes"
-msgstr ""
+msgstr "Немає доступних маршрутів"
 
 msgid "No More Photos"
-msgstr ""
+msgstr "Більше немає фото"
 
 msgid "No Tracking. Ever."
-msgstr ""
+msgstr "Без стеження. Завжди."
 
 msgctxt "safe search"
 msgid "No adult content"
-msgstr ""
+msgstr "Блокувати матеріали для дорослих"
 
 msgctxt "directions"
 msgid "No available routes between these locations"
@@ -2493,59 +2493,59 @@ msgstr ""
 
 msgctxt "safe search"
 msgid "No explicit images or videos"
-msgstr ""
+msgstr "Без відвертих зображень чи відео"
 
 msgctxt "noresults"
 msgid "No more results found for %s%s%s."
-msgstr ""
+msgstr "Більше немає результатів для %s%s%s."
 
 msgctxt "settingsvalue"
 msgid "No preference (default)"
 msgstr ""
 
 msgid "No results"
-msgstr ""
+msgstr "Немає результатів"
 
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
-msgstr ""
+msgstr "Не знайдено результатів для %s%s%s."
 
 msgctxt "directions"
 msgid "No results found."
-msgstr ""
+msgstr "Результатів не знайдено."
 
 msgctxt "new user poll"
 msgid "No thanks."
-msgstr ""
+msgstr "Ні, дякую."
 
 msgctxt "homepage onboarding"
 msgid "No tracking, no ad targeting, just searching!"
-msgstr ""
+msgstr "Без стеження, без цільової реклами, лише пошук!"
 
 msgctxt "homepage onboarding"
 msgid "No tracking, no ad targeting, just searching."
-msgstr ""
+msgstr "Жодного стеження, жодної реклами, лише пошук."
 
 msgctxt "new user poll"
 msgid "No, old user!"
-msgstr ""
+msgstr "Ні, давній користувач!"
 
 #. http://i.imgur.com/WjSXsiZ.png
 msgctxt "settingsvalue"
 msgid "Normal"
-msgstr ""
+msgstr "Нормальний"
 
 #. http://i.imgur.com/i9mDrSN.png
 msgctxt "width"
 msgid "Normal"
-msgstr ""
+msgstr "Нормальна"
 
 msgid "Norway"
-msgstr ""
+msgstr "Норвегія"
 
 msgctxt "precise_user_location"
 msgid "Not getting nearby results?"
-msgstr ""
+msgstr "Не отримуєте результатів поблизу?"
 
 #. Not many results contain '<query>' (<query> is the query that the user sent to the search engine)
 msgid "Not many results contain %s"
@@ -2553,7 +2553,7 @@ msgstr ""
 
 msgctxt "Report image modal"
 msgid "Not relevant"
-msgstr ""
+msgstr "Не актуально"
 
 msgctxt "settingsvalue"
 msgid "Not set"
@@ -2561,77 +2561,77 @@ msgstr ""
 
 #. Instant Answer tab name
 msgid "Nutrition"
-msgstr ""
+msgstr "Харчування"
 
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 msgctxt "mobile promotion on desktop"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Гаразд, зрозуміло!"
 
 msgid "Off"
-msgstr ""
+msgstr "Вимкнути"
 
 #. in https://duckduckgo.com/params wherever it says %s for Off
 #. previous note: This is common Off from Settings
 msgctxt "setting"
 msgid "Off"
-msgstr ""
+msgstr "Вимкнено"
 
 msgctxt "settingsvalue"
 msgid "Off"
-msgstr ""
+msgstr "Вимкнено"
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Offers"
-msgstr ""
+msgstr "Пропозиції"
 
 #. http://i.imgur.com/zQWKLIm.png
 msgctxt "settings"
 msgid "Omits objectionable (mostly adult) material"
-msgstr ""
+msgstr "Уникає сумнівні матеріали (переважно вміст для дорослих)"
 
 msgid "On"
-msgstr ""
+msgstr "В"
 
 #. https://duckduckgo.com/params in multiple "1 for On"s
 msgctxt "setting"
 msgid "On"
-msgstr ""
+msgstr "Увімкнено"
 
 #. in https://duckduckgo.com/params under Interface Settings
 #. previous note: Under Settings/ Layout( tab)/ Header
 msgctxt "setting"
 msgid "On & floating"
-msgstr ""
+msgstr "Ввімкнути & плаваюче"
 
 #. http://i.imgur.com/TIY3iVP.png
 msgctxt "setting"
 msgid "On & scrolling"
-msgstr ""
+msgstr "Ввімкнути & прокручувати"
 
 #  Maxthon homepage instruction
 msgid "On Mac, %sClick Maxthon > Preferences%s, On Windows, %sClick the %s icon > Settings%s"
-msgstr ""
+msgstr "На Mac, %sClick Maxthon > Preferences%s, на Windows, %sClick the %s icon > Settings%s"
 
 #. https://duckduckgo.com/params under "Interface Settings" under "Page #s:"
 msgctxt "setting"
 msgid "On but no numbers"
-msgstr ""
+msgstr "Увімкнено, але без номерів"
 
 msgctxt "new user poll"
 msgid "Online article"
-msgstr ""
+msgstr "Онлайн стаття"
 
 #. http://i.imgur.com/1Ri3uHl.png
 msgctxt "cloudsave"
 msgid "Only the settings that you have changed. They are detailed on the %sURL Parameters%s page."
-msgstr ""
+msgstr "Лише налаштування які ви змінили. Вони знаходяться на %sURL Parameters%s сторінці."
 
 msgctxt "maps_places"
 msgid "Open"
-msgstr ""
+msgstr "Відкрити"
 
 #. The placeholder is a business name, e.g. 'Open Ikea website'.
 msgid "Open %s website"
@@ -2640,12 +2640,12 @@ msgstr ""
 #  Chrome/Firefox on Android/iOS
 msgctxt "mobile homepage banner"
 msgid "Open %sMenu%s"
-msgstr ""
+msgstr "Відкрийте %sМеню%s"
 
 #  Safari on iOS
 msgctxt "mobile homepage banner"
 msgid "Open %sSettings%s"
-msgstr ""
+msgstr "Відкрити %sНалаштування%s"
 
 msgctxt "precise_user_location"
 msgid "Open 'Location', and ensure location is %senabled%s."
@@ -2657,42 +2657,42 @@ msgstr ""
 
 msgctxt "maps_places"
 msgid "Open 24 hours"
-msgstr ""
+msgstr "Відкрито цілодобово"
 
 msgctxt "maps_places"
 msgid "Open Expanded Map"
-msgstr ""
+msgstr "Відкрити розгорнуту карту"
 
 #. http://i.imgur.com/jsSFfAr.png
 #. This setting used to be called 'New Window'
 #. Please update this translation if it no longer applies
 msgctxt "settings"
 msgid "Open Links in a New Tab"
-msgstr ""
+msgstr "Відкривати посилання у новій вкладці"
 
 msgid "Open Map"
-msgstr ""
+msgstr "Відкрити Мапу"
 
 msgid "Open Settings"
-msgstr ""
+msgstr "Відкрити налаштування"
 
 #  Safari default search engine instruction
 msgid "Open a new tab or window"
-msgstr ""
+msgstr "Відкрити нову вкладку або вікно"
 
 #. shown when DDG is selected after eu preference menu on android
 msgctxt "welcome message eu search preference android"
 msgid "Open app"
-msgstr ""
+msgstr "Відкрити програму"
 
 msgctxt "open_in_third_party_app"
 msgid "Open in %s"
-msgstr ""
+msgstr "Відкрити в %s"
 
 #. http://i.imgur.com/MnvQ0IK.png
 msgctxt "settingsvalue"
 msgid "Open on third-party site"
-msgstr ""
+msgstr "Відкрити на сторонньому сайті"
 
 msgctxt "precise_user_location"
 msgid "Open the %sSettings app%s."
@@ -2704,83 +2704,83 @@ msgstr ""
 
 msgctxt "maps_places"
 msgid "Opens"
-msgstr ""
+msgstr "Відкривається"
 
 #. http://i.imgur.com/iCNwHqR.png
 #. This setting controls how results open when you click on them.
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
-msgstr ""
+msgstr "Відкриває результати у нових вікнах/вкладках"
 
 msgctxt "maps_places"
 msgid "Opens soon"
-msgstr ""
+msgstr "Невдовзі відкриється"
 
 msgctxt "feedback form"
 msgid "Optional"
-msgstr ""
+msgstr "Необов'язково"
 
 msgctxt "maps_maps_module"
 msgid "Or did you mean:"
-msgstr ""
+msgstr "Можливо ви мали на увазі:"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Orange"
-msgstr ""
+msgstr "Помаранчевий"
 
 msgctxt "color"
 msgid "Orange"
-msgstr ""
+msgstr "Помаранчовий"
 
 msgctxt "feedback form"
 msgid "Other"
-msgstr ""
+msgstr "Інше"
 
 msgctxt "homepage onboarding"
 msgid "Other search engines track your searches even when you’re in private browsing mode. We don’t track you &mdash; period."
-msgstr ""
+msgstr "Інші пошукові системи відстежують ваші пошуки навіть коли ви у приватному режимі. Ми вас не відстежуємо – крапка."
 
 msgctxt "SERP footer content"
 msgid "Our Crash Course"
-msgstr ""
+msgstr "Наш інтенсивний курс"
 
 msgctxt "homepage onboarding"
 msgid "Our privacy policy is simple: we don’t collect or share any of your personal information."
-msgstr ""
+msgstr "Наша політика приватності проста: ми не збираємо і не ділимося будь-якою вашою особистою інформацією."
 
 msgid "Our private browser for mobile comes equipped with our search engine, tracker blocker, encryption enforcer, and more. Available on %siOS & Android%s."
-msgstr ""
+msgstr "Наш приватний браузер для мобільних пристроїв має наш вбудований пошуковий засіб, блокування стеження, примусове шифрування та інші функції. Доступний для %siOS та Android%s."
 
 msgctxt "showcase_traffic"
 msgid "Over %s Billion anonymous searches."
-msgstr ""
+msgstr "Понад %s мільярдів анонімних пошуків."
 
 msgctxt "SERP footer content"
 msgid "Over %s in DuckDuckGo privacy donations."
-msgstr ""
+msgstr "Понад %s внесків приватності в DuckDuckGo."
 
 msgctxt "maps_places"
 msgid "Overview"
-msgstr ""
+msgstr "Огляд"
 
 #. Instant Answer Tab Name
 msgid "Packages"
-msgstr ""
+msgstr "Пакети"
 
 msgctxt "settings"
 msgid "Page #'s"
-msgstr ""
+msgstr "#'и Сторінок "
 
 #. in https://duckduckgo.com/params under "Interface Settings" header
 msgid "Page #s:"
-msgstr ""
+msgstr "Сторінка #s:"
 
 msgid "Page %s"
-msgstr ""
+msgstr "Сторінка %s"
 
 msgctxt "settings"
 msgid "Page Break Lines"
-msgstr ""
+msgstr "Лінії розділення сторінок"
 
 msgctxt "settings"
 msgid "Page Break Numbers"
@@ -2789,7 +2789,7 @@ msgstr ""
 #. http://i.imgur.com/nyTQ3ki.png
 msgctxt "settings"
 msgid "Page Width"
-msgstr ""
+msgstr "Ширина сторінки"
 
 msgctxt "cloudsave"
 msgid "Passphrase is already taken."
@@ -2811,19 +2811,19 @@ msgstr ""
 
 #. Option for the filter-by-date search.
 msgid "Past Day"
-msgstr ""
+msgstr "Учора"
 
 #. Option for the filter-by-date search.
 msgid "Past Month"
-msgstr ""
+msgstr "За місяць"
 
 #. Option for the filter-by-date search.
 msgid "Past Week"
-msgstr ""
+msgstr "за тиждень"
 
 #. Option for the filter-by-date search.
 msgid "Past Year"
-msgstr ""
+msgstr "За минулий рік"
 
 msgid "Past day"
 msgstr ""
@@ -2838,28 +2838,28 @@ msgid "Past year"
 msgstr ""
 
 msgid "Peru"
-msgstr ""
+msgstr "Перу"
 
 msgid "Philippines"
-msgstr ""
+msgstr "Філіппіни"
 
 msgid "Philippines (tl)"
-msgstr ""
+msgstr "Філіппіни (тагальська)"
 
 msgctxt "maps_places"
 msgid "Phone"
-msgstr ""
+msgstr "Телефон"
 
 msgctxt "maps_places"
 msgid "Phone Number"
-msgstr ""
+msgstr "Номер телефону"
 
 msgctxt "image-type"
 msgid "Photograph"
-msgstr ""
+msgstr "Фотографія"
 
 msgid "Photos on %s"
-msgstr ""
+msgstr "Фотографії на %s"
 
 msgctxt "precise_user_location"
 msgid "Pick Custom Location"
@@ -2867,30 +2867,30 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "Pick a category"
-msgstr ""
+msgstr "Оберіть категорію"
 
 msgctxt "feedback form"
 msgid "Pick a specific problem"
-msgstr ""
+msgstr "Оберіть конкретну проблему"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Pink"
-msgstr ""
+msgstr "Рожевий"
 
 msgctxt "color"
 msgid "Pink"
-msgstr ""
+msgstr "Рожевий"
 
 #. https://duckduckgo.com/params under "Look & Feel Settings"
 msgid "Placement:"
-msgstr ""
+msgstr "Розміщення:"
 
 msgid "Places"
-msgstr ""
+msgstr "Місця"
 
 msgctxt "cloudsave"
 msgid "Please enter a pass phrase"
-msgstr ""
+msgstr "Будь-ласка, введіть пароль"
 
 msgctxt "feedback form"
 msgid "Please provide feedback"
@@ -2898,47 +2898,47 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "Please select one option."
-msgstr ""
+msgstr "Будь ласка, виберіть одну опцію"
 
 #  https://duckduckgo.com/?e=1
 msgid "Please try again"
-msgstr ""
+msgstr "Будь ласка, спробуйте ще раз"
 
 msgid "Poland"
-msgstr ""
+msgstr "Польща"
 
 #. Menu point on the main DuckDuckGo menu, can be seen on all pages. (Links to <a href="https://duckduckgo.com/privacy">privacy</a> page)
 msgid "Policy"
-msgstr ""
+msgstr "Політика"
 
 msgid "Portugal"
-msgstr ""
+msgstr "Португалія"
 
 msgctxt "settings"
 msgid "Preferred units of measure"
-msgstr ""
+msgstr "Бажані одиниці виміру"
 
 #. Main page under "More"
 msgid "Press"
-msgstr ""
+msgstr "Натисніть"
 
 #  Chrome 55 on Android
 msgid "Press %sMenu > Add to homescreen > Add%s!"
-msgstr ""
+msgstr "Натисніть %sМеню > Додати на домашню сторінку > Додати%s!"
 
 msgid "Press Kit"
-msgstr ""
+msgstr "Прес-кіт"
 
 msgid "Preview"
-msgstr ""
+msgstr "Попередній перегляд"
 
 msgctxt "video"
 msgid "Preview"
-msgstr ""
+msgstr "Попередній перегляд"
 
 msgctxt "settings"
 msgid "Previous Region"
-msgstr ""
+msgstr "Попередній Регіон"
 
 msgctxt "feedback form"
 msgid "Price shown doesn't reflect merchant site"
@@ -2956,77 +2956,77 @@ msgstr ""
 
 #. In the top menu under Settings ("More" > "Privacy")
 msgid "Privacy"
-msgstr ""
+msgstr "Приватність"
 
 #. http://i.imgur.com/squ02on.png
 msgctxt "settings"
 msgid "Privacy"
-msgstr ""
+msgstr "Приватність"
 
 msgid "Privacy Blog"
-msgstr ""
+msgstr "Блог про приватність"
 
 msgid "Privacy Browser App"
-msgstr ""
+msgstr "Програма Приватний браузер"
 
 msgid "Privacy Browser Extension"
-msgstr ""
+msgstr "Розширення для приватності браузера"
 
 msgid "Privacy Crash Course"
-msgstr ""
+msgstr "Інтенсивний курс з приватності"
 
 msgid "Privacy Essentials"
-msgstr ""
+msgstr "Основи приватності"
 
 msgid "Privacy Essentials for %s"
-msgstr ""
+msgstr "Основи приватності для %s"
 
 msgctxt "SERP footer content"
 msgid "Privacy Newsletter"
-msgstr ""
+msgstr "Інформаційна розсилка про приватність"
 
 msgctxt "settings"
 msgid "Privacy Newsletter"
-msgstr ""
+msgstr "Інформаційна розсилка про приватність"
 
 msgctxt "settings"
 msgid "Privacy Newsletters"
 msgstr ""
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Політика приватності"
 
 msgid "Privacy Protection For Any Device"
-msgstr ""
+msgstr "Захист приватності для будь-якого пристрою"
 
 #. https://duckduckgo.com/params. it is a bold header
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Налаштування приватності"
 
 msgid "Privacy for %s"
-msgstr ""
+msgstr "Приватність для %s"
 
 msgctxt "SERP footer content"
 msgid "Privacy in Your Inbox"
-msgstr ""
+msgstr "Приватність у вашій поштовій скриньці"
 
 msgctxt "showcase_newsletter"
 msgid "Privacy in Your Inbox"
-msgstr ""
+msgstr "Приватність у вашій поштовій скриньці"
 
 #. shown when DDG is selected after eu preference menu on android
 msgctxt "welcome message eu search preference android"
 msgid "Privacy, simplified"
-msgstr ""
+msgstr "Приватність — це просто"
 
 msgid "Privacy, simplified."
-msgstr ""
+msgstr "Приватність — це просто."
 
 msgid "Private Search"
-msgstr ""
+msgstr "Приватний пошук"
 
 msgid "Private Search Engine"
-msgstr ""
+msgstr "Рушій приватного пошуку"
 
 #. The device location shared is is not logged by us
 msgctxt "precise_user_location"
@@ -3035,7 +3035,7 @@ msgstr ""
 
 msgctxt "attribution"
 msgid "Producer"
-msgstr ""
+msgstr "Виробник"
 
 msgctxt "feedback form"
 msgid "Product ad content is deceptive"
@@ -3051,12 +3051,12 @@ msgstr ""
 
 #. Instant Answer Tab Name
 msgid "Products"
-msgstr ""
+msgstr "Продукти"
 
 #. http://i.imgur.com/KT5S1TR.png
 msgctxt "settingsvalue"
 msgid "Prompt me"
-msgstr ""
+msgstr "Запитати в мене"
 
 msgctxt "settings"
 msgid "Prompt me to use my approximate location to get nearby results."
@@ -3064,15 +3064,15 @@ msgstr ""
 
 msgctxt "SERP footer content"
 msgid "Protect Your Devices"
-msgstr ""
+msgstr "Захистіть свої пристрої"
 
 msgctxt "showcase_privacy"
 msgid "Protect Your Devices"
-msgstr ""
+msgstr "Захистіть свої пристрої"
 
 msgctxt "showcase_app"
 msgid "Protect your data on every device."
-msgstr ""
+msgstr "Захистіть свої дані на кожному пристрої."
 
 #. a filter for images with the CC0 usage license
 msgctxt "image-licence"
@@ -3081,52 +3081,52 @@ msgstr ""
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Purple"
-msgstr ""
+msgstr "Фіолетовий:"
 
 msgctxt "color"
 msgid "Purple"
-msgstr ""
+msgstr "Фіолетовий"
 
 #. Instant Answer Tab Name
 msgid "Quotations"
-msgstr ""
+msgstr "Котирування"
 
 msgid "Quotes"
-msgstr ""
+msgstr "Цитати"
 
 msgctxt "new user poll"
 msgid "Radio or podcast"
-msgstr ""
+msgstr "Радіо або подкаст"
 
 #. Placeholder will be a number. This is used to describe extension rating out of 5 stars.
 msgid "Rated %s/5"
-msgstr ""
+msgstr "Оцінка %s/5"
 
 msgid "Read More"
-msgstr ""
+msgstr "Читати далі"
 
 msgctxt "SERP footer content"
 msgid "Read about how Google influences what people click."
-msgstr ""
+msgstr "Прочитайте, як Google впливає на те, що люди обирають."
 
 msgid "Recent News"
-msgstr ""
+msgstr "Нещодавні новини"
 
 msgctxt "region filter"
 msgid "Recent:"
-msgstr ""
+msgstr "Останні:"
 
 #. Instant Answer Tab Name
 msgid "Recipes"
-msgstr ""
+msgstr "Рецепти"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Red"
-msgstr ""
+msgstr "Червоний"
 
 msgctxt "color"
 msgid "Red"
-msgstr ""
+msgstr "Червоний"
 
 msgid "Reddit"
 msgstr ""
@@ -3136,99 +3136,99 @@ msgid "Redirect (When Necessary)"
 msgstr ""
 
 msgid "Redirect:"
-msgstr ""
+msgstr "Переадресовувати:"
 
 msgid "Region"
-msgstr ""
+msgstr "Регіон"
 
 #. http://i.imgur.com/G0kt3wS.png
 #. Setting to boost results for your region.
 msgctxt "settings"
 msgid "Region"
-msgstr ""
+msgstr "Регіон"
 
 #. in https://duckduckgo.com/params under "Result Settings" .it is the second header
 msgid "Region:"
-msgstr ""
+msgstr "Регіон:"
 
 msgctxt "maps_places"
 msgid "Regular Hours Today"
-msgstr ""
+msgstr "Звичайний графік сьогодні"
 
 msgid "Related Searches"
-msgstr ""
+msgstr "Схожі запити"
 
 msgid "Related Topics"
-msgstr ""
+msgstr "Пов'язані теми"
 
 msgid "Remember my choice (this can be changed in %sSettings%s)"
-msgstr ""
+msgstr "Запам'ятати мій вибір (це може бути змінено в %sSettings%s)"
 
 msgctxt "ads"
 msgid "Report Ad"
-msgstr ""
+msgstr "Повідомити про рекламу"
 
 msgctxt "Report image modal"
 msgid "Report this image"
-msgstr ""
+msgstr "Поскаржитися на це зображення"
 
 msgctxt "settings dropdown"
 msgid "Reset"
-msgstr ""
+msgstr "Скинути"
 
 msgctxt "cloudsave"
 msgid "Reset All Settings"
-msgstr ""
+msgstr "Скинути всі налаштування"
 
 #. http://i.imgur.com/ktBWbzB.png
 #. Resets your configuration
 msgctxt "settings"
 msgid "Reset All Settings"
-msgstr ""
+msgstr "Скинути Усі Налаштування"
 
 #. http://i.imgur.com/t65r7D9.png
 #. changes the color of the result descriptions like this: http://i.imgur.com/UOdZYpf.png
 msgctxt "settings"
 msgid "Result Description Color"
-msgstr ""
+msgstr "Колір опису результату"
 
 msgctxt "settings"
 msgid "Result Full URLs"
-msgstr ""
+msgstr "Повна URL-адреса результатів"
 
 #. http://i.imgur.com/kqN8dPT.png
 msgctxt "settings"
 msgid "Result Highlight Color"
-msgstr ""
+msgstr "Колір Виділення Результату"
 
 msgctxt "settings"
 msgid "Result Hover, Module, and Dropdown Background Color"
-msgstr ""
+msgstr "Наведення на результат, модуль, а також список вибору кольору"
 
 #. in https://duckduckgo.com/params in the top. it is the first header
 msgid "Result Settings"
-msgstr ""
+msgstr "Результат налаштування"
 
 #. http://i.imgur.com/M5H3oSv.png
 #. Changes the color of the results.
 msgctxt "settings"
 msgid "Result Title Color"
-msgstr ""
+msgstr "Колір заголовка результату"
 
 #. http://i.imgur.com/MTrwCtj.png
 msgctxt "settings"
 msgid "Result Title Font"
-msgstr ""
+msgstr "Шрифт заголовка результату"
 
 #. http://i.imgur.com/YTYuj72.png
 msgctxt "settings"
 msgid "Result Title Underline"
-msgstr ""
+msgstr "Підкреслення заголовка результату"
 
 #. http://i.imgur.com/fsnijIZ.png
 msgctxt "settings"
 msgid "Result URL Color"
-msgstr ""
+msgstr "Колір URL-адреси результату"
 
 msgctxt "settings"
 msgid "Result URLs Above Snippet"
@@ -3241,11 +3241,11 @@ msgstr ""
 #. http://i.imgur.com/nRnQruy.png
 msgctxt "settings"
 msgid "Result Visited Title Color"
-msgstr ""
+msgstr "Колір заголовка відвіданого результату"
 
 #. In the top menu under Settings
 msgid "Results"
-msgstr ""
+msgstr "Результати"
 
 #. Displays the selected location results, e.g.: Results near <Paris France 75004>
 msgctxt "precise_user_location"
@@ -3256,25 +3256,25 @@ msgstr ""
 #. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png
 msgctxt "theme"
 msgid "Retro"
-msgstr ""
+msgstr "Ретро"
 
 msgctxt "precise_user_location"
 msgid "Return to duckduckgo.com and allow permission."
-msgstr ""
+msgstr "Поверніться до duckduckgo.com і надайте дозвіл."
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Reviews"
-msgstr ""
+msgstr "Відгуки"
 
 msgctxt "maps_places"
 msgid "Reviews"
 msgstr ""
 
 msgid "Romania"
-msgstr ""
+msgstr "Румунія"
 
 msgid "Russia"
-msgstr ""
+msgstr "Росія"
 
 msgctxt "forecast"
 msgid "S"
@@ -3289,22 +3289,22 @@ msgid "SW"
 msgstr ""
 
 msgid "Safe Search"
-msgstr ""
+msgstr "Безпечний пошук"
 
 #. http://i.imgur.com/hcN6sIA.png
 msgctxt "settings"
 msgid "Safe Search"
-msgstr ""
+msgstr "Безпечний пошук"
 
 #. in https://duckduckgo.com/params near the top under "Result Settings" header
 msgid "Safe Search:"
-msgstr ""
+msgstr "Безпечний пошук:"
 
 msgid "Safe search blocked results for %s."
-msgstr ""
+msgstr "Безпечний пошук заблокував результати для %s."
 
 msgid "Safe search blocked some results for %s."
-msgstr ""
+msgstr "Безпечний пошук заблокував деякі результати для %s."
 
 #. Safe search lets you remove adult content from results on DuckDuckGo. This string is used to invite users to select the desired level of protection (e.g., strict, moderate, off)
 msgid "Safe search:"
@@ -3313,57 +3313,57 @@ msgstr ""
 #. For a button that shows satellite imagery on a map
 msgctxt "map-mode"
 msgid "Satellite"
-msgstr ""
+msgstr "Супутник"
 
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Саудівська Аравія"
 
 #. Probably bookmarks settings save button?
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 msgctxt "settings"
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 msgctxt "settings"
 msgid "Save Cloud Settings"
-msgstr ""
+msgstr "Зберегти Налаштування Хмаринки"
 
 msgid "Save Settings"
-msgstr ""
+msgstr "Зберегти налаштування"
 
 msgid "Save and Exit"
-msgstr ""
+msgstr "Зберегти і вийти"
 
 #. http://i.imgur.com/2X1kTSf.png
 msgctxt "settings"
 msgid "Save your settings anonymously to the cloud"
-msgstr ""
+msgstr "Анонімно зберігайте свої налаштування в хмарі"
 
 msgctxt "SERP footer content"
 msgid "Say Goodbye To Google"
-msgstr ""
+msgstr "Скажіть Прощавай Google"
 
 #. Needs Context
 msgid "Score"
-msgstr ""
+msgstr "Рахунок "
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Scroll down and click %sView advanced settings%s"
-msgstr ""
+msgstr "Прокрутіть вниз та клікніть %sПереглянути розширені налаштування%s"
 
 #  Edge Legacy default search engine instruction
 msgid "Scroll down and click %sView advanced settings%s."
-msgstr ""
+msgstr "Прокрутіть вниз та оберіть %sПереглянути розширені налаштування%s."
 
 #  Edge Legacy default search engine instruction, obsolete?
 msgid "Scroll down and find %sSearch in the address bar%s. Click on %sChange%s (or %sAdd new%s)"
-msgstr ""
+msgstr "Прокрутіть вниз і знайдіть %sПошук в панелі адреси%s. Натисніть на %sЗмінити%s (або %sДодати новий%s)"
 
 #  Edge Legacy default search engine instruction
 msgid "Scroll down and find %sSearch in the address bar%s. Click on %sChange%s (or %sAdd new%s)."
-msgstr ""
+msgstr "Прокрутіть вниз і знайдіть %sПошук в панелі адреси%s. Оберіть %sЗмінити%s (або %sДодати новий%s)."
 
 msgctxt "precise_user_location"
 msgid "Scroll down and locate %syour browser%s in the list."
@@ -3371,41 +3371,41 @@ msgstr ""
 
 #  Edge default search engine instruction
 msgid "Scroll down to the %sServices%s section and click %sAddress bar%s."
-msgstr ""
+msgstr "Прокрутіть вниз до розділу %sСервіси%s та клацніть %sПанель адреси%s."
 
 #. Context? Is this _a search_ (noun) or the verb _search_?
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 msgid "Search Anonymously"
-msgstr ""
+msgstr "Анонімний пошук"
 
 #. in https://duckduckgo.com/search_box. top header
 msgid "Search Box"
-msgstr ""
+msgstr "Поле пошуку"
 
 msgctxt "settings"
 msgid "Search Button Background"
-msgstr ""
+msgstr "Задній Фон Пошукової Кнопки"
 
 #. search for a place within the map area currently shown in expanded map
 msgctxt "vertical_map"
 msgid "Search Current Map Area"
-msgstr ""
+msgstr "Шукати на поточній ділянці карти"
 
 msgid "Search DuckDuckGo"
-msgstr ""
+msgstr "Пошук DuckDuckGo"
 
 #. search for a place near the user's location
 msgctxt "vertical_map"
 msgid "Search Near My Location"
-msgstr ""
+msgstr "Шукати поблизу мого розташування"
 
 msgid "Search Options"
-msgstr ""
+msgstr "Налаштування пошуку"
 
 msgid "Search Results"
-msgstr ""
+msgstr "Результати пошуку"
 
 msgctxt "map"
 msgid "Search This Area"
@@ -3416,7 +3416,7 @@ msgid "Search Visibility"
 msgstr ""
 
 msgid "Search and browse privately with the DuckDuckGo app."
-msgstr ""
+msgstr "Шукайте й переглядайте приватно з додатком DuckDuckGo."
 
 msgctxt "feedback form"
 msgid "Search box"
@@ -3424,22 +3424,22 @@ msgstr ""
 
 #. Le terme apparait en survolant le terme "More from ..." sur la page de résultats.
 msgid "Search domain %s"
-msgstr ""
+msgstr "Пошук домену %s"
 
 msgid "Search only for %s?"
-msgstr ""
+msgstr "Шукати лише %s?"
 
 msgid "Search privately with our app or extension, add private web search to your favorite browser, or search directly at %sduckduckgo.com%s."
-msgstr ""
+msgstr "Шукайте приватно з нашою програмою чи розширенням, додайте приватний пошук в Інтернеті до свого улюбленого браузера, або шукайте безпосередньо на %sduckduckgo.com%s."
 
 #. http://i.imgur.com/6LZAoqH.png
 msgctxt "settings"
 msgid "Search queries are included in URL (if off, searches will use POST requests)"
-msgstr ""
+msgstr "Пошукові запити включені в посилання (якщо деактивовано, пошуки використовуватимуть POST запити)"
 
 msgctxt "search input box"
 msgid "Search the web without being tracked"
-msgstr ""
+msgstr "Пошук в Інтернеті без стеження"
 
 #. Search this area for hotels, restaurants, bars, parks, banks etc.
 msgctxt "map"
@@ -3448,17 +3448,17 @@ msgstr ""
 
 #. Message displayed sometimes at top of results (for bang syntax), e.g. <a href="https://duckduckgo.com/?q=twitter+test">https://duckduckgo.com/?q=twitter+test</a>
 msgid "Searches %s using our %s"
-msgstr ""
+msgstr "Пошук на %s з використанням нашого %s"
 
 msgid "Searches related to \"%s\""
-msgstr ""
+msgstr "Пошуки, пов'язані з \"%s\""
 
 msgctxt "feedback form"
 msgid "Security issue (opens in new tab)"
 msgstr ""
 
 msgid "See Photos"
-msgstr ""
+msgstr "Дивитися фотографії"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then at the bottom of the cloud save box - http://i.imgur.com/4Jo3jAf.png
@@ -3473,162 +3473,162 @@ msgstr ""
 #  Safari on iOS
 msgctxt "mobile homepage banner"
 msgid "Select %s%s%s, then %sSearch Engine%s"
-msgstr ""
+msgstr "Оберіть %s%s%s, а потім %sзасіб пошуку%s"
 
 msgctxt "precise_user_location"
 msgid "Select %s'Setting for this Website...'%s from the Safari menu."
 msgstr ""
 
 msgid "Select %sCustom%s and enter %shttps://duckduckgo.com%s in the input field"
-msgstr ""
+msgstr "Виберіть %sВласний%s  та введіть %shttps://duckduckgo.com%s в поле вводу "
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Select %sDuckDuckGo%s and click %sAdd as default%s!"
-msgstr ""
+msgstr "Оберіть %sDuckDuckGo%s та клацніть %sВстановити типовим%s!"
 
 #  Edge Legacy default search engine instruction
 msgid "Select %sDuckDuckGo%s and click %sSet as default%s"
-msgstr ""
+msgstr "Оберіть %sDuckDuckGo%s і натисніть %sВстановити типовим%s"
 
 #  Edge Legacy default search engine instruction
 msgid "Select %sDuckDuckGo%s and click %sSet as default%s."
-msgstr ""
+msgstr "Оберіть %sDuckDuckGo%s і натисніть %sВстановити типовим%s."
 
 #  Firefox 33
 msgid "Select %sDuckDuckGo%s in the Default Search Engine drop down"
-msgstr ""
+msgstr "Оберіть %sDuckDuckGo%s своїм типовим засобом пошуку зі списку"
 
 #  IE 11 default search engine instruction
 msgid "Select %sDuckDuckGo%s in the list of search providers"
-msgstr ""
+msgstr "Виберіть %sDuckDuckGo%s у переліку пошукових машин"
 
 #  Firefox default search engine instruction
 msgid "Select %sDuckDuckGo%s under the%sDefault Search Engine%s section"
-msgstr ""
+msgstr "Виберіть %sDuckDuckGo%s у розділі %sТиповий засіб пошуку%s"
 
 msgid "Select %sDuckDuckGo%s!"
-msgstr ""
+msgstr "Виберіть %sDuckDuckGo%s!"
 
 #  Chrome default search engine instruction
 msgid "Select %sEdit Search Engines...%sin the dropdown"
-msgstr ""
+msgstr "Виберіть %sРедагувати пошукові системи...%sу випадаючому меню"
 
 #  IE 11 default search engine instruction
 msgid "Select %sManage add-ons%s from the dropdown menu"
-msgstr ""
+msgstr "Оберіть %sКерувати додатками%s з випадаючого меню"
 
 #  Opera default search engine instruction
 msgid "Select %sOpera > Preferences%s (on Mac) or %sMenu > Settings%s (on Windows)"
-msgstr ""
+msgstr "Виберіть %sOpera > Налаштування%s (на Mac) або %sМеню > Налаштування%s (на Windows)"
 
 #  Opera homepage instruction
 #. http://i.imgur.com/WU0BbCB.png
 msgid "Select %sOpera > Preferences%s (on Mac) or %sOpera > Options%s (on Windows)"
-msgstr ""
+msgstr "Оберiть %sOpera > Preferences%s (пiд Mac) або %sOpera > Options%s (пiд Windows)"
 
 #  Safari homepage instruction
 msgid "Select %sPreferences%s."
-msgstr ""
+msgstr "Натисніть %sНалаштування%s"
 
 #  Chrome on iOS
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch Engine%s"
-msgstr ""
+msgstr "Оберіть %sзасіб пошуку%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch engine%s, then %sOthers...%s"
-msgstr ""
+msgstr "Оберіть %sзасіб пошуку%s, а потім %sІнші...%s"
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Select %sSettings%s"
-msgstr ""
+msgstr "Виберіть%sНалаштування%s"
 
 #  Chrome on iOS
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s"
-msgstr ""
+msgstr "Виберіть%sНалаштування%s"
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Select %sSettings%s from the drop-down menu."
-msgstr ""
+msgstr "Виберіть %sНалаштування%s  з випадаючого меню."
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sAdvanced settings%s"
-msgstr ""
+msgstr "Оберіть %sНалаштування%s, а потім %sРозширені налаштування%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sDefault search engine%s"
-msgstr ""
+msgstr "Оберіть %sНалаштування%s, а потім %sТиповий засіб пошуку%s"
 
 #  Chrome/Firefox on Android
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sSearch Engine%s"
-msgstr ""
+msgstr "Оберіть %sНалаштування%s, потім %sПошук%s"
 
 msgid "Select %sUse this webpage as your only home page%s (or one of the other options if you prefer)"
-msgstr ""
+msgstr "Виберіть %sцю веб-сторінку як домашню%s (або виберіть інший варіант, якому ви віддаєте перевагу)"
 
 #  Safari default search engine instruction
 msgid "Select DuckDuckGo!"
-msgstr ""
+msgstr "Оберіть DuckDuckGo!"
 
 msgctxt "precise_user_location"
 msgid "Select Settings > Location."
-msgstr ""
+msgstr "Оберіть Налаштування > Розташування."
 
 msgid "Selected %sDuckDuckGo%s"
-msgstr ""
+msgstr "Обрані %s DuckDuckGo %s"
 
 #. "Send" button for feedback form.
 msgid "Send"
-msgstr ""
+msgstr "Відправити"
 
 msgctxt "feedback form"
 msgid "Send feedback"
-msgstr ""
+msgstr "Надіcлати відгук"
 
 msgctxt "feedback form"
 msgid "Send feedback for:"
-msgstr ""
+msgstr "Надіслати відгук для"
 
 msgid "Set DuckDuckGo as your %sdefault search engine"
-msgstr ""
+msgstr "Оберiть DuckDuckGo своїм %sтиповим засобом пошуку"
 
 msgctxt "precise_user_location"
 msgid "Set Manually"
-msgstr ""
+msgstr "Налаштувати вручну"
 
 msgid "Set as Default Search Engine"
-msgstr ""
+msgstr "Встановити типовим пошуковим засобом"
 
 #. On the homepage.
 msgid "Set as Homepage"
-msgstr ""
+msgstr "Встановити як стартову сторінку"
 
 msgctxt "precise_user_location"
 msgid "Set your location manually, or ensure Location Services is enabled."
-msgstr ""
+msgstr "Встановіть своє місцезнаходження вручну, або переконайтеся, що служби визначення місцезнаходження увімкнено."
 
 #. In the top dropdown menu  ("More" > "Settings")
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "feedback form"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 #. http://i.imgur.com/uzNLMwE.png
 #. Your DuckDuckGo settings as JSON parameters (https://en.wikipedia.org/wiki/JSON)
 msgctxt "settings"
 msgid "Settings in JSON:"
-msgstr ""
+msgstr "Налаштування у JSON:"
 
 msgid "Settings updated"
 msgstr ""
 
 msgctxt "homepage onboarding"
 msgid "Share DuckDuckGo and help friends take their privacy back!"
-msgstr ""
+msgstr "Поділіться  DuckDuckGo та допоможіть друзям повернути собі право на приватність!"
 
 msgctxt "feedback form"
 msgid "Share Feedback"
@@ -3636,21 +3636,21 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "Share feedback for this result."
-msgstr ""
+msgstr "Поділіться відгуком для цього результату."
 
 msgctxt "feedback form"
 msgid "Share feedback on your search results."
-msgstr ""
+msgstr "Поділіться відгуком про результати пошуку."
 
 msgid "Shopping"
-msgstr ""
+msgstr "Покупки"
 
 msgctxt "video-duration"
 msgid "Short"
-msgstr ""
+msgstr "Коротке"
 
 msgid "Shortcuts to other sites to search off DuckDuckGo"
-msgstr ""
+msgstr "Скорочення DuckDuckGo для пошуку на інших сайтах"
 
 #. button to show X>1 more options in a list
 msgctxt "shopping_vertical"
@@ -3666,27 +3666,27 @@ msgstr ""
 #. Clicking will show you your Settings as a URL and JSON like this http://i.imgur.com/59sqEFU.png
 msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
-msgstr ""
+msgstr "Показати закладку і дані налаштувань"
 
 msgctxt "mobile expanded map"
 msgid "Show Detail"
-msgstr ""
+msgstr "Показати подробиці"
 
 msgctxt "expand_text"
 msgid "Show Less"
-msgstr ""
+msgstr "Приховати"
 
 msgctxt "mobile expanded map"
 msgid "Show List"
-msgstr ""
+msgstr "Показати список"
 
 msgctxt "expand_text"
 msgid "Show More"
-msgstr ""
+msgstr "Показати більше"
 
 msgctxt "load_more"
 msgid "Show More"
-msgstr ""
+msgstr "Показати більше"
 
 #. Click "Load Settings" - http://i.imgur.com/cii6KqL.png
 #. Then - http://i.imgur.com/nOvjdKb.png
@@ -3705,29 +3705,29 @@ msgstr ""
 
 msgctxt "directions"
 msgid "Show map"
-msgstr ""
+msgstr "Показати карту"
 
 msgctxt "video-duration"
 msgid "Show videos of any length"
-msgstr ""
+msgstr "Показувати відео будь-якої довжини"
 
 #. In the Instant Answers box -> viewing images -> the sentence over the first image. Eg. https://duckduckgo.com/?q=duckduckgo&ia=images
 msgctxt "visible"
 msgid "Showing"
-msgstr ""
+msgstr "Показ"
 
 msgid "Showing results excluding"
-msgstr ""
+msgstr "Показані результати за винятком"
 
 msgid "Showing results from"
-msgstr ""
+msgstr "Показати результати з"
 
 msgid "Showing results without %s."
-msgstr ""
+msgstr "Показуємо результати без %s."
 
 #. Instant Answer Tab Name
 msgid "Shows"
-msgstr ""
+msgstr "Шоу"
 
 msgctxt "settings"
 msgid "Shows favicons for each result"
@@ -3785,7 +3785,7 @@ msgstr ""
 #. Discontinued, don't translate
 msgctxt "settings"
 msgid "Shows the search button background"
-msgstr ""
+msgstr "Показує задній фон кнопки пошуку"
 
 msgctxt "settings"
 msgid "Shows welcome message on top of the search results page"
@@ -3797,68 +3797,68 @@ msgstr ""
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Similar"
-msgstr ""
+msgstr "Схожий"
 
 msgid "Singapore"
-msgstr ""
+msgstr "Сінгапур"
 
 msgctxt "settings"
 msgid "Site Icons"
-msgstr ""
+msgstr "Піктограми сайтів"
 
 #. https://duckduckgo.com/params under Look & Feel Settings. It is a header
 msgid "Size:"
-msgstr ""
+msgstr "Розмір:"
 
 msgid "Slovakia"
-msgstr ""
+msgstr "Словаччина"
 
 msgid "Slovenia"
-msgstr ""
+msgstr "Словенія"
 
 #. http://i.imgur.com/JDDRzkk.png
 msgctxt "settingsvalue"
 msgid "Small"
-msgstr ""
+msgstr "Маленький"
 
 #. http://i.imgur.com/wG6ioeG.png
 msgctxt "size"
 msgid "Small"
-msgstr ""
+msgstr "Малий"
 
 msgid "Social"
-msgstr ""
+msgstr "Соціальне"
 
 msgid "Software"
-msgstr ""
+msgstr "Програмне забезпечення"
 
 msgctxt "cloudsave"
 msgid "Something went wrong saving to the server, please try again."
-msgstr ""
+msgstr "Щось сталось із збереженням на сервер, спробуйте ще раз."
 
 msgid "Sorry, no results here."
-msgstr ""
+msgstr "Пробачте, але результатів немає."
 
 #. https://duckduckgo.com/params under Interface Settings.in the end. It is a header
 msgid "Source:"
-msgstr ""
+msgstr "Джерело"
 
 msgid "South Africa"
-msgstr ""
+msgstr "Південна Африка"
 
 msgid "Spain"
-msgstr ""
+msgstr "Іспанія"
 
 msgid "Spain (ca)"
-msgstr ""
+msgstr "Іспанія (канадська)"
 
 msgctxt "showcase_spread"
 msgid "Spread DuckDuckGo"
-msgstr ""
+msgstr "Розповісти про DuckDuckGo"
 
 msgctxt "image-layout"
 msgid "Square"
-msgstr ""
+msgstr "Квадратний"
 
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-resolution"
@@ -3866,46 +3866,46 @@ msgid "Standard definition"
 msgstr ""
 
 msgid "Start searching!"
-msgstr ""
+msgstr "Почати пошук!"
 
 msgctxt "SERP footer content"
 msgid "Stay Informed"
-msgstr ""
+msgstr "Бути в курсі"
 
 msgctxt "SERP footer content"
 msgid "Stay protected and informed with our privacy newsletters."
-msgstr ""
+msgstr "Будьте захищеними та інформованими завдяки нашим розсилкам новин про приватність."
 
 msgctxt "showcase_newsletter"
 msgid "Stay protected and informed with our privacy newsletters."
-msgstr ""
+msgstr "Будьте захищеними та інформованими завдяки нашим розсилкам новин про приватність."
 
 #. Instant Answer tab name - eg. https://duckduckgo.com/?q=Energy+Transfer+Equity&ia=stock
 msgid "Stock"
-msgstr ""
+msgstr "Акції"
 
 msgid "Store"
-msgstr ""
+msgstr "Магазин"
 
 msgctxt "settings"
 msgid "Stores the previous region that was set"
-msgstr ""
+msgstr "Зберігає попередній регіон який був встановлений"
 
 msgctxt "safe search"
 msgid "Strict"
-msgstr ""
+msgstr "Суворий"
 
 msgctxt "settingsvalue"
 msgid "Strict"
-msgstr ""
+msgstr "Суворий"
 
 #. in https://duckduckgo.com/feedback in the end. It is a button
 msgid "Submit"
-msgstr ""
+msgstr "Надіслати"
 
 msgctxt "email newsletter"
 msgid "Subscribe"
-msgstr ""
+msgstr "Підписатися"
 
 msgctxt "settings"
 msgid "Suggest Different Passphrase"
@@ -3918,65 +3918,65 @@ msgstr ""
 
 msgctxt "directions"
 msgid "Suggestions:"
-msgstr ""
+msgstr "Пропозиції:"
 
 msgctxt "noresults"
 msgid "Suggestions:"
-msgstr ""
+msgstr "Пропозиції:"
 
 #. http://i.imgur.com/FczLkAL.png
 msgctxt "settingsvalue"
 msgid "Super Wide"
-msgstr ""
+msgstr "Надзвичайно Широкий"
 
 #. http://i.imgur.com/hAG8srI.png
 msgctxt "width"
 msgid "Super wide"
-msgstr ""
+msgstr "Дуже широкий"
 
 msgid "Support"
-msgstr ""
+msgstr "Підтримка"
 
 msgid "Sweden"
-msgstr ""
+msgstr "Швеція"
 
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo and take back your privacy!"
-msgstr ""
+msgstr "Використовуйте DuckDuckGo та поверніть собі право на приватність!"
 
 msgid "Switch to the search engine that doesn't track you. Ever."
-msgstr ""
+msgstr "Перемкніться на пошуковий засіб, який ніколи не стежить за вами."
 
 msgid "Switzerland (de)"
-msgstr ""
+msgstr "Швейцарія (німецька)"
 
 msgid "Switzerland (fr)"
-msgstr ""
+msgstr "Швейцарія (французька)"
 
 msgid "Switzerland (it)"
-msgstr ""
+msgstr "Швейцарія (італійська)"
 
 msgid "TV"
-msgstr ""
+msgstr "ТБ"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Тайвань"
 
 #. Recupera Tu Privacidad!
 msgid "Take Back Your Privacy!"
-msgstr ""
+msgstr "Поверніть собі вашу приватність."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Take control of your personal data."
-msgstr ""
+msgstr "Самостійно контролюйте використання ваших персональних даних."
 
 msgctxt "image-layout"
 msgid "Tall"
-msgstr ""
+msgstr "Високий"
 
 #. It's a color, if you are confused. See <a href="http://en.wikipedia.org/wiki/Tan_(color)">http://en.wikipedia.org/wiki/Tan_(color)</a>
 msgid "Tan"
-msgstr ""
+msgstr "Жовтувато-коричневий"
 
 msgctxt "precise_user_location"
 msgid "Tap the %slock icon%s on the address bar."
@@ -3984,38 +3984,38 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Tap the vertical dots in the DuckDuckGo app."
-msgstr ""
+msgstr "Торкніться меню у вигляді трьох крапок в програмі DuckDuckGo."
 
 msgctxt "color"
 msgid "Teal"
-msgstr ""
+msgstr "Бірюзовий"
 
 #. An option under "Theme" http://i.imgur.com/fFIMtgl.png
 #. changes the look of DuckDuckGo to a Terminal, like this: http://i.imgur.com/BDN8Tfm.png
 msgctxt "theme"
 msgid "Terminal"
-msgstr ""
+msgstr "Термінал"
 
 #. in https://duckduckgo.com/params under "Look & Feel Settings" header
 msgid "Text font:"
-msgstr ""
+msgstr "Шрифт тексту:"
 
 msgid "Text:"
-msgstr ""
+msgstr "Текст:"
 
 msgid "Thailand"
-msgstr ""
+msgstr "Таїланд"
 
 msgid "Thank you!"
-msgstr ""
+msgstr "Дякуємо!"
 
 msgctxt "homepage onboarding"
 msgid "Thank you."
-msgstr ""
+msgstr "Дякуємо."
 
 msgctxt "Lock icon next to HTTP search result"
 msgid "That means information sent between your device and the webpage behind this link is at increased risk of being intercepted by a third party. In rare cases this includes passwords, or payment details."
-msgstr ""
+msgstr "Це означає, що інформація, відправлена між пристроєм і веб-сторінкою, що стоїть за цим посиланням, збільшує ризик перехоплення третьою стороною. У рідкісних випадках, вона включає паролі або платіжні реквізити."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/elru00b.png
@@ -4025,35 +4025,35 @@ msgstr ""
 
 msgctxt "settings"
 msgid "The rendering method to use for interactive maps"
-msgstr ""
+msgstr "Метод візуалізації для інтерактивних карт"
 
 msgctxt "SERP footer content"
 msgid "The world needs an alternative to the collect-it-all business model."
-msgstr ""
+msgstr "Світ потребує альтернативи бізнес-моделі загального збору даних."
 
 #. Title for the theme menu:
 #. https://duck.co/media/files/theme.png
 msgid "Theme"
-msgstr ""
+msgstr "Тема"
 
 #. http://i.imgur.com/LpFhb1e.png
 msgctxt "settings"
 msgid "Theme"
-msgstr ""
+msgstr "Тема"
 
 #. சூழல் மாற்றப்பட்டது
 msgid "Theme Changed"
-msgstr ""
+msgstr "Тему змінено"
 
 msgid "Themes"
-msgstr ""
+msgstr "Теми"
 
 #. Instant Answer Tab Name
 msgid "Thesaurus"
-msgstr ""
+msgstr "Тлумачний словник"
 
 msgid "These browser permissions are used to add privacy protection on websites you visit by blocking hidden trackers, encrypting connections where possible, and by making DuckDuckGo your default search engine."
-msgstr ""
+msgstr "Ці дозволи для браузера використовуються для додавання захисту приватності на відвідуваних веб-сайтах, блокуючи приховане стеження, шифруючи з'єднання де це можливо, і зробивши DuckDuckGo вашим типовим засобом пошуку."
 
 msgctxt "attribution"
 msgid "This Instant Answer was made by the %sDuckDuckHack%s Community."
@@ -4063,140 +4063,140 @@ msgstr ""
 #. Then in the cloud save box - http://i.imgur.com/d2RxxQ8.png
 msgctxt "cloudsave"
 msgid "This has a few benefits:"
-msgstr ""
+msgstr "Це має кілька переваг:"
 
 #. Discontinued, don't translate
 msgid "This page requires Javascript to function."
-msgstr ""
+msgstr "Для роботи цієї сторінки необхідний Javascript."
 
 msgid "This video is not yet able to be watched here. You can watch it on %s."
-msgstr ""
+msgstr "Це відео наразі недоступне для перегляду тут. Ви можете подивитися його на %s."
 
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
-msgstr ""
+msgstr "Ця веб-сторінка не використовує захищене, зашифроване, з'єднання (HTTPS)."
 
 #. In spanish: Esto borrará todos los ajustes. ¿Desea continuar?
 msgctxt "settings"
 msgid "This will erase all settings. Continue?"
-msgstr ""
+msgstr "Це видалить всі налаштування. Продовжити?"
 
 msgctxt "settings"
 msgid "This will reset your saved settings to default values. Continue?"
-msgstr ""
+msgstr "Це призведе до скидання ваших налаштувань до стандартних значень. Продовжити?"
 
 msgid "Tired of being tracked online? %sWe can help.%s"
-msgstr ""
+msgstr "Втомилися від стеження в Інтернеті? %sМи можемо допомогти.%s"
 
 msgctxt "directions"
 msgid "To print directions:%sGo back to the map.%sSelect the route you want to print.%sClick the print icon.%s"
 msgstr ""
 
 msgid "Today"
-msgstr ""
+msgstr "Сьогодні"
 
 msgid "Tomorrow"
-msgstr ""
+msgstr "Завтра"
 
 #. Used in headings on Category pages, e.g. <a href="https://duckduckgo.com/?q=simpsons+characters">https://duckduckgo.com/?q=simpsons+characters</a>
 msgid "Top"
-msgstr ""
+msgstr "Верх"
 
 msgid "Tour"
-msgstr ""
+msgstr "Тур"
 
 msgctxt "frontpage"
 msgid "Tour"
-msgstr ""
+msgstr "Огляд"
 
 #. Part of the sentence: "<b>Translate</b> us."
 msgctxt "translateus"
 msgid "Translate"
-msgstr ""
+msgstr "Перекладати"
 
 msgctxt "image-type"
 msgid "Transparent"
-msgstr ""
+msgstr "Прозорий"
 
 #. Alternate header text for front page
 msgid "Try a search!"
-msgstr ""
+msgstr "Спробуйте пошук!"
 
 msgctxt "directions"
 msgid "Try adding a city, state, or postal code."
-msgstr ""
+msgstr "Спробуйте додати місто, штат або поштовий індекс."
 
 msgctxt "noresults"
 msgid "Try different keywords."
-msgstr ""
+msgstr "Спробуйте різні ключові слова."
 
 msgctxt "precise_user_location"
 msgid "Try enabling anonymous location for more accurate results."
-msgstr ""
+msgstr "Спробуйте увімкнути анонімне розташування для точніших результатів."
 
 msgctxt "noresults"
 msgid "Try fewer keywords."
-msgstr ""
+msgstr "Спробуйте менше ключових слів."
 
 msgctxt "noresults"
 msgid "Try more general keywords."
-msgstr ""
+msgstr "Спробуйте більш загальні ключові слова."
 
 msgid "Try our homepage that never shows these messages:"
-msgstr ""
+msgstr "Спробуйте нашу домашню сторінку, яка ніколи не показує ці повідомлення:"
 
 msgctxt "precise_user_location"
 msgid "Try setting your location manually."
-msgstr ""
+msgstr "Спробуйте налаштувати ваше розташування вручну."
 
 msgid "Try the DuckDuckGo app"
-msgstr ""
+msgstr "Спробуйте додаток DuckDuckGo"
 
 #. Message displayed sometimes at top of results (for bang syntax), e.g. <a href="https://duckduckgo.com/?q=twitter+test">https://duckduckgo.com/?q=twitter+test</a>
 msgid "Try: %s"
-msgstr ""
+msgstr "Спробуйте: %s"
 
 msgctxt "new user poll"
 msgid "Trying DuckDuckGo again"
-msgstr ""
+msgstr "Випробовую DuckDuckGo знову"
 
 msgid "Turkey"
-msgstr ""
+msgstr "Туреччина"
 
 #. For safe search, "Turn off: [temporarily] [permanently]"
 msgid "Turn off:"
-msgstr ""
+msgstr "Вимкнути:"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #  Chrome default search engine instruction
 msgid "Type %sDuckDuckGo%s in the first %sform field"
-msgstr ""
+msgstr "Введіть %sDuckDuckGo%s в першому %sполі форми"
 
 #  Chrome default search engine instruction
 msgid "Type %sduckduckgo.com%s in the %ssecond form field"
-msgstr ""
+msgstr "Введіть %sduckduckgo.com%s у поле %sдругої форми"
 
 #. 1. in https://duckduckgo.com/settings near the bottom by clicking "Bookmarklet and settings data" under "Your settings as a URL parameter bookmarklet:" in the sentence "see the URL Parameters page for detailed descriptions"
 #. 2. in https://duckduckgo.com/settings near the bottom under "Cloud Save" by clicking "What's this" under "What information gets saved?". It is a link
 #. 3. in https://duckduckgo.com/params in the top. It is a header
 msgid "URL Parameters"
-msgstr ""
+msgstr "URL-параметри"
 
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "URLs:"
-msgstr ""
+msgstr "URL-адреси:"
 
 msgid "US (English)"
-msgstr ""
+msgstr "Сполучені Штати Америки"
 
 msgid "US (Spanish)"
-msgstr ""
+msgstr "Сполучені Штати Америки (іспанська)"
 
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
-msgstr ""
+msgstr "Імерська (Фунти, Фути, градуси Фаренгейту)"
 
 msgctxt "settingsvalue"
 msgid "US-based (pounds, feet, Fahrenheit)"
@@ -4205,41 +4205,41 @@ msgstr ""
 #  Chrome 36 on macOS, 27 on Windows
 #. I haven't Translated the links under %s because that will come from Chrome Browser...
 msgid "Under %sOn startup%s, click %sOpen a specific page%s then click %sSet Pages%s."
-msgstr ""
+msgstr "%sПідчас запуску%s,  натисніть кнопку %s Відкрити певну сторінку%s  потім натисніть %s встановити сторінку%s "
 
 #  Maxthon homepage instruction
 msgid "Under %sOn startup%s, select %sHomepage%s and enter: https://duckduckgo.com"
-msgstr ""
+msgstr "Під %sПри запуску%s, виберіть%s домашня сторінка%s і введіть: https://duckduckgo.com"
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Under %sOpen with%s select %sA specific page or pages%s"
-msgstr ""
+msgstr "Під %sВідкрити у%s обрати%sСпецифічна сторінка або декілька%s"
 
 msgid "Under %sSTARTUP > Homepage%s enter: https://duckduckgo.com"
-msgstr ""
+msgstr "під %s ЗАПУСК > Головна %s  введіть: https://duckduckgo.com"
 
 msgid "Under %sSearch Settings%s select %sDuckDuckGo%s"
-msgstr ""
+msgstr "В %sНалаштуваннях пошуку%s оберіть %sDuckDuckGo%s"
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Under %sSearch in the address bar with%s select %sAdd New%s"
-msgstr ""
+msgstr "Під %sПошук в адресному рядку%s виберіть %sДодати новий%s"
 
 #  Chrome 36 on macOS, 27 on Windows
 msgid "Under %sSearch%s section, click %sManage search engines...%s"
-msgstr ""
+msgstr "У розділі %sПошук%s натисніть %sКерувати засобами пошуку%s"
 
 #  Opera homepage instruction
 msgid "Under On startup select %sOpen a specific page or set of pages%s"
-msgstr ""
+msgstr "Під пунктом \"Під час запуску\" виберіть %sВідкрити певну сторінку чи групу сторінок%s"
 
 #  Opera default search engine instruction
 msgid "Under Search click the drop down and select %sDuckDuckGo%s"
-msgstr ""
+msgstr "Під рядком пошуку натисність на випадаюче миню та виберіть %sDuckDuckGo%s"
 
 #. https://duckduckgo.com/params under "Look & Feel Settings" header
 msgid "Underline:"
-msgstr ""
+msgstr "Підкреслення:"
 
 #. http://i.imgur.com/7M5ogIs.png
 #. If, "On" --it will add an underline to result titles like this: http://i.imgur.com/VRFC6VQ.png
@@ -4250,22 +4250,22 @@ msgstr ""
 
 #. Instant Answer tab name
 msgid "Unicode"
-msgstr ""
+msgstr "Юнікод"
 
 msgid "United Kingdom"
-msgstr ""
+msgstr "Велика Британія"
 
 msgctxt "settings"
 msgid "Units of Measure"
-msgstr ""
+msgstr " Одиниці виміру"
 
 msgctxt "precise_user_location"
 msgid "Update"
-msgstr ""
+msgstr "Оновити"
 
 msgctxt "precise_user_location"
 msgid "Update Location"
-msgstr ""
+msgstr "Оновити розташування"
 
 #. Waiting for the device to send an updated location
 msgctxt "precise_user_location"
@@ -4274,11 +4274,11 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "Upgrading to full-time user"
-msgstr ""
+msgstr "Оновлення до повноцінного користувача"
 
 #. This is a verb and will be concatenated with a noun in dropdown boxes, e.g. "Use xyz". The text was previously "Using".
 msgid "Use"
-msgstr ""
+msgstr "Використовувати"
 
 msgctxt "precise_user_location"
 msgid "Use Anonymous Location"
@@ -4286,11 +4286,11 @@ msgstr ""
 
 msgctxt "mobile homepage"
 msgid "Use DuckDuckGo Private Search"
-msgstr ""
+msgstr "Використовуй DuckDuckGo Private Search"
 
 msgctxt "mobile promotion on desktop"
 msgid "Use DuckDuckGo private search on your iPad, iPhone, or Android!"
-msgstr ""
+msgstr "Використовуйте DuckDuckGo для приватного пошуку на вашому iPad, iPhone, або Android!"
 
 #. User clicks this button to share their device's location
 msgctxt "precise_user_location"
@@ -4298,36 +4298,36 @@ msgid "Use Location"
 msgstr ""
 
 msgid "Use in Firefox"
-msgstr ""
+msgstr "Використовувати в Firefox"
 
 msgid "Use in Safari"
-msgstr ""
+msgstr "Використовуйте в Safari"
 
 msgctxt "directions"
 msgid "Via"
-msgstr ""
+msgstr "Через"
 
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
-msgstr ""
+msgstr "Відтворення відео"
 
 #. Instant Answer Tab Name
 msgid "Videos"
-msgstr ""
+msgstr "Відео"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "В'єтнам"
 
 msgid "View File"
 msgstr ""
 
 msgid "View on %s"
-msgstr ""
+msgstr "Переглянути на %s"
 
 msgctxt "maps_maps_module"
 msgid "View on Map"
-msgstr ""
+msgstr "Показати на мапі"
 
 msgctxt "Ads GDPR, internal use only. Do not change"
 msgid "Viewing ads is privacy protected by DuckDuckGo. Ad clicks are managed by Microsoft's ad network"
@@ -4335,11 +4335,11 @@ msgstr ""
 
 msgctxt "mobile promotion on desktop"
 msgid "Visit %sDuckDuckGo.com%s on your tablet or phone and follow the provided instructions."
-msgstr ""
+msgstr "Відвідайте %sDuckDuckGo.com%s на вашому планшеті або телефоні, і виконайте надані інструкції."
 
 #. https://duckduckgo.com/params under "Color Settings" header
 msgid "Visited links:"
-msgstr ""
+msgstr "Відвідані посилання:"
 
 msgctxt "forecast"
 msgid "W"
@@ -4352,29 +4352,29 @@ msgstr ""
 
 msgctxt "directions"
 msgid "Walking"
-msgstr ""
+msgstr "Ходьба"
 
 msgctxt "size"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Шпалери"
 
 msgctxt "feedback form"
 msgid "Want to tell us a bit more?"
-msgstr ""
+msgstr "Хочете розповісти нам трохи більше?"
 
 #. e.g. Video search viewing options: http://i.imgur.com/ofZeLRn.png
 msgid "Watch Here"
-msgstr ""
+msgstr "Дивіться Тут"
 
 msgid "Watch on %s"
-msgstr ""
+msgstr "Дивитися на %s"
 
 msgid "Watch on YouTube"
-msgstr ""
+msgstr "Дивитись на YouTube"
 
 msgctxt "SERP footer content"
 msgid "We Protect Your Privacy"
-msgstr ""
+msgstr "Ми захищаємо вашу приватність"
 
 msgctxt "precise_user_location"
 msgid "We can use your anonymous%s location%s to show you nearby results."
@@ -4382,7 +4382,7 @@ msgstr ""
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't follow you around with ads."
-msgstr ""
+msgstr "Ми не переслідуємо вас із рекламою."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/pZ0pyIJ.png
@@ -4392,58 +4392,58 @@ msgstr ""
 
 msgctxt "homepage onboarding"
 msgid "We don't store your personal info or track you. Ever."
-msgstr ""
+msgstr "Ми не зберігаємо інформацію про Вас і не слідкуємо за Вами. Завжди."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal info."
-msgstr ""
+msgstr "Ми не зберігаємо вашу особисту інформацію. "
 
 msgid "We don't store your personal info. We don't follow you around with ads. We don't track you. Ever."
-msgstr ""
+msgstr "Ми не зберігаємо вашу персональну інформацію. Ми не слідуємо за вами з рекламою і не відстежуємо вас."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal information."
-msgstr ""
+msgstr "Ми не зберігаємо вашу особисту інформацію."
 
 msgctxt "SERP footer content"
 msgid "We don't store your search history or follow you around the web."
-msgstr ""
+msgstr "Ми не зберігаємо вашу історію пошуку і не переслідуємо вас в Інтернеті."
 
 msgctxt "SERP footer content"
 msgid "We don't track you, but others do."
-msgstr ""
+msgstr "Ми не стежимо за вами на відміну від інших."
 
 msgctxt "new user poll"
 msgid "We don't track you, so we could use your help telling us what brought you back today:"
-msgstr ""
+msgstr "Ми не стежимо за вами, тому ми хочемо скористатися нагодою дізнатися про ваші враження:"
 
 msgctxt "new user poll"
 msgid "We don't track you, so we could use your help telling us what convinced you to try us out today:"
-msgstr ""
+msgstr "Ми не стежимо за вами, отже нам було б дуже корисно дізнатися, чому ви вирішили спробувати наш сервіс сьогодні:"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't track you. Ever."
-msgstr ""
+msgstr "Ми не стежимо за вами. Ніколи."
 
 msgctxt "homepage onboarding"
 msgid "We don’t follow you around with ads."
-msgstr ""
+msgstr "Ми не стежимо за вами із рекламою."
 
 msgctxt "homepage onboarding"
 msgid "We don’t store your personal information. Ever."
-msgstr ""
+msgstr "Ми не зберігаємо вашу особисту інформацію. Ніколи."
 
 msgctxt "homepage onboarding"
 msgid "We don’t store your search history. We therefore have nothing to sell to advertisers that track you across the Internet."
-msgstr ""
+msgstr "Ми не зберігаємо Вашу пошукову історію. Тому нам нічого продавати рекламодавцям, які відстежують Вас в інтернеті. "
 
 msgctxt "homepage onboarding"
 msgid "We don’t track you in or out of private browsing mode."
-msgstr ""
+msgstr "Ми не відстежуємо вас поза чи у приватному режимі."
 
 msgctxt "SERP footer content"
 msgid "We get a ton of searches, and all of them are anonymous."
-msgstr ""
+msgstr "Ми обробляємо величезну кількість пошукових запитів, і всі вони анонімні."
 
 msgctxt "precise_user_location"
 msgid "We only use your anonymous location to deliver better results, closer to you. You can always change your mind later."
@@ -4455,39 +4455,39 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
-msgstr ""
+msgstr "Ми маємо честь, що Ви з нами на Качачій Стороні"
 
 #. Instant Answer Tab Name
 msgid "Weather"
-msgstr ""
+msgstr "Погода"
 
 msgctxt "feedback form"
 msgid "Web Links"
-msgstr ""
+msgstr "Веб посилання"
 
 msgctxt "maps_places"
 msgid "Website"
-msgstr ""
+msgstr "Вебсайт"
 
 msgctxt "settings"
 msgid "Welcome Message"
-msgstr ""
+msgstr "Привітальне повідомлення"
 
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
-msgstr ""
+msgstr "Вітаємо вас на нашій стороні!"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
-msgstr ""
+msgstr "Що привело вас сьогодні?"
 
 msgctxt "feedback form"
 msgid "What could be better?"
-msgstr ""
+msgstr "Що можливо покращити?"
 
 msgctxt "feedback form"
 msgid "What did you like?"
-msgstr ""
+msgstr "Що Вам сподобалось?"
 
 msgctxt "feedback form"
 msgid "What do you think of the information shown?"
@@ -4497,7 +4497,7 @@ msgstr ""
 #. Then in the cloud save box - http://i.imgur.com/ta4V0Xy.png
 msgctxt "cloudsave"
 msgid "What information gets saved?"
-msgstr ""
+msgstr "Яка інформація зберігається?"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/YrfhzTL.png
@@ -4507,11 +4507,11 @@ msgstr ""
 
 #. http://i.imgur.com/fDEZ8XN.png
 msgid "What is this?"
-msgstr ""
+msgstr "Що це?"
 
 msgctxt "new user poll"
 msgid "What led you to DuckDuckGo?"
-msgstr ""
+msgstr "Хто привів Вас на DuckDuckGo?"
 
 msgctxt "maps_places"
 msgid "What people say:"
@@ -4519,39 +4519,39 @@ msgstr ""
 
 #  Safari homepage instruction
 msgid "Where it says Homepage click %sSet to Current Page%s."
-msgstr ""
+msgstr "Там, де написано Домашня сторінка натисніть %sПоточна сторінка%s."
 
 #. https://duckduckgo.com/params under "Color Settings" under "Header: " and under "Background: "
 msgid "White"
-msgstr ""
+msgstr "Білий"
 
 msgctxt "color"
 msgid "White"
-msgstr ""
+msgstr "Білий"
 
 msgid "Who We Are"
-msgstr ""
+msgstr "Хто ми такі"
 
 msgid "Why Privacy"
-msgstr ""
+msgstr "Чому приватність"
 
 msgctxt "image-layout"
 msgid "Wide"
-msgstr ""
+msgstr "Широкі"
 
 #. http://i.imgur.com/twR2utt.png
 msgctxt "settingsvalue"
 msgid "Wide"
-msgstr ""
+msgstr "Широкий"
 
 #. http://i.imgur.com/SOkVdkM.png
 msgctxt "width"
 msgid "Wide"
-msgstr ""
+msgstr "Широкий"
 
 #. https://duckduckgo.com/params under "Look & Feel Settings"
 msgid "Width:"
-msgstr ""
+msgstr "Ширина:"
 
 msgctxt "feedback form"
 msgid "Wikipedia info"
@@ -4559,24 +4559,24 @@ msgstr ""
 
 msgctxt "forecast"
 msgid "Wind"
-msgstr ""
+msgstr "Вітер"
 
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "
 msgid "Yellow"
-msgstr ""
+msgstr "Жовтий"
 
 msgctxt "color"
 msgid "Yellow"
-msgstr ""
+msgstr "Жовтий"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then at the bottom of the cloud save box - http://i.imgur.com/U73iTqu.png
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 msgctxt "new user poll"
 msgid "Yes, new user!"
-msgstr ""
+msgstr "Так, новий користувач!"
 
 msgctxt "cloudsave"
 msgid "Yes, we throw away data when you’re done with it, and it cannot be recovered."
@@ -4584,13 +4584,13 @@ msgstr ""
 
 #. Option for the filter-by-date search.
 msgid "Yesterday"
-msgstr ""
+msgstr "Вчора"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/bGPC1Pf.png
 msgctxt "cloudsave"
 msgid "You can do this by saving your settings under a different passphrase, optionally deleting the first set."
-msgstr ""
+msgstr "Ви можете зробити це, зберігши настройки під іншим паролем, при необхідності видаливши перший файл налаштуваннь."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/pVjCXmw.png
@@ -4602,62 +4602,62 @@ msgstr ""
 #. In the cloud save box -http://i.imgur.com/tABFqCY.png
 msgctxt "cloudsave"
 msgid "You can share your settings among computers and browsers."
-msgstr ""
+msgstr "Ви можете переносити свої налаштування на інші комп'ютери та браузери."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/u2XeiaU.png
 msgctxt "cloudsave"
 msgid "You can store several sets of settings for different purposes."
-msgstr ""
+msgstr "Ви можете зберегти кілька наборів настройок для різних цілей."
 
 msgctxt "welcome message"
 msgid "You now have the DuckDuckGo extension!"
-msgstr ""
+msgstr "Тепер ви маєте розширення DuckDuckGo!"
 
 msgctxt "SERP footer content"
 msgid "You're in control. Customize the look-and-feel of DuckDuckGo."
-msgstr ""
+msgstr "У вас є контроль. Налаштуйте вигляд і можливості DuckDuckGo."
 
 #. shown when DDG is selected after eu preference menu on android
 msgctxt "welcome message eu search preference android"
 msgid "You're now searching privately in Chrome. Use our app instead of Chrome to browse privately too. It’s already installed and can:"
-msgstr ""
+msgstr "Ви вже можете виконувати приватний пошук в Chrome. Тепер використовуйте нашу програму замість Chrome, щоб також користуватися приватним переглядом. Вона вже встановлена і може:"
 
 msgid "You're now searching with privacy!"
-msgstr ""
+msgstr "Тепер ви шукаєте приватно!"
 
 msgid "You're now searching with privacy. %sGet tips to reduce your footprint even more."
-msgstr ""
+msgstr "Тепер у вас є приватний засіб пошуку. %sОтримайте поради для ще кращого прикриття своїх слідів у Інтернеті."
 
 msgid "YouTube (owned by Google) does not let you watch videos anonymously. As such, watching YouTube videos here will be tracked by YouTube/Google."
-msgstr ""
+msgstr "YouTube (який належить Google), не дозволяє переглядати відео анонімно. Таким чином, переглядаючи відео з YouTube тут, Ви будете відслідковуватися Yotube чи Google."
 
 msgid "YouTube Privacy Warning"
-msgstr ""
+msgstr "Попередження про приватність YouTube"
 
 msgctxt "video-license"
 msgid "YouTube Standard"
-msgstr ""
+msgstr "Стандарт YouTube"
 
 msgctxt "directions"
 msgid "Your Location"
-msgstr ""
+msgstr "Ваше розташування"
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"
-msgstr ""
+msgstr "Ваш браузер показав, що ви відвідували це посилання"
 
 msgctxt "new tab page"
 msgid "Your browser provides the list of most-visited sites. DuckDuckGo never has access to this data."
-msgstr ""
+msgstr "Ваш браузер надає список найбільш відвідуваних сайтів. DuckDuckGo ніколи не має доступу до цих даних."
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
-msgstr ""
+msgstr "Ваші дані не повинні продаватися."
 
 msgctxt "newsletter email collection"
 msgid "Your email address will not be shared, %sor associated with anonymous searches. [%sExample message%s]"
-msgstr ""
+msgstr "Ваша електронна адреса не буде використана, %sабо асоційована з анонімними пошуковими запитами. [%sЗразок повідомлення%s]"
 
 msgctxt "cloudsave"
 msgid "Your passphrase generates a 512-bit key by using the Secure Hash Algorithm known as %sSHA-2%s. Only the key and associated settings file leave your browser. We save the settings file using the key as the name. DuckDuckGo never knows your passphrase."
@@ -4665,19 +4665,19 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "Your response is 100% anonymous."
-msgstr ""
+msgstr "Ваша відповідь є на 100% анонімною."
 
 #. From the guide in the Feedback page.
 msgid "advertising"
-msgstr ""
+msgstr "реклама"
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "by %s"
-msgstr ""
+msgstr "від %s"
 
 msgctxt "made_by"
 msgid "by %s"
-msgstr ""
+msgstr "зроблено %s"
 
 #. An abbreviated form of "day" that can be displayed in a small space e.g. "1d"
 msgctxt "published date for videos"
@@ -4688,14 +4688,14 @@ msgstr ""
 #. under "Look & Feel Settings"  under "Size:" and "Text link: "
 msgctxt "setting"
 msgid "default"
-msgstr ""
+msgstr "типово"
 
 msgid "email"
-msgstr ""
+msgstr "електронна пошта"
 
 #. Can somebody provide the context?
 msgid "for"
-msgstr ""
+msgstr "для"
 
 #. An abbreviated form of "hour" that can be displayed in a small space e.g. "1h"
 msgctxt "published date for videos"
@@ -4704,7 +4704,7 @@ msgstr ""
 
 msgctxt "nonjsversion"
 msgid "here"
-msgstr ""
+msgstr "тут"
 
 #. An abbreviated form of "minute" that can be displayed in a small space e.g. "1m"
 msgctxt "published date for videos"
@@ -4719,64 +4719,64 @@ msgstr ""
 #. https://duckduckgo.com/50x.html?e=2
 #. p.s.(tsester): i found it out by searching "  "
 msgid "no search"
-msgstr ""
+msgstr "не знайдено"
 
 #  https://duckduckgo.com/?e=4
 msgid "not %s encoding"
-msgstr ""
+msgstr "не %s кодування"
 
 #. Used for the <em>color settings</em> into the <a href="https://duckduckgo.com/params.html">URL params page</a> as the last available value for the color parameter.
 #. <em>%s</em> is for a hexadecimal color code as <em>#395323</em>, but it has to be safe encoded, and as <em>#</em> seems not safe, <em>%23</em> must be used in place of the sharp symbol, but they are the same for your browser.
 msgid "or write out the color code you want, e.g. %s (%s is an encoded %s char)."
-msgstr ""
+msgstr "або вкажіть код кольору, який самі бажаєте, наприклад, %s (%s являє собою закодований %s символ)."
 
 #. in https://duckduckgo.com/params under "Look & Feel Settings" under both "Link font: " and "Link font: "
 msgid "or write out the font you want"
-msgstr ""
+msgstr "або впишіть бажаний шрифт"
 
 #. Message displayed sometimes at top of results -- in the context of safe search.
 msgid "permanently"
-msgstr ""
+msgstr "постійно"
 
 msgid "private search"
-msgstr ""
+msgstr "приватний пошук"
 
 #  https://duckduckgo.com/?e=3
 #. The English version is not capitalized...
 msgid "search too long"
-msgstr ""
+msgstr "пошуковий запит занадто довгий"
 
 msgid "site encryption"
-msgstr ""
+msgstr "шифрування сайту"
 
 #. Message displayed sometimes at top of results -- in the context of safe search.
 msgid "temporarily"
-msgstr ""
+msgstr "тимчасово"
 
 #  https://duckduckgo.com/?e=1
 msgid "there was an error."
-msgstr ""
+msgstr "сталася помилка."
 
 msgctxt "moreinfo"
 msgid "this help page"
-msgstr ""
+msgstr "ця сторінка допомоги"
 
 #  https://duckduckgo.com/?e=6
 msgid "too many search terms"
-msgstr ""
+msgstr "занадто багато пошукових фраз"
 
 #. Link on the homepage in the context of the No Tracking and donttrack.us
 msgctxt "donttrackus"
 msgid "track"
-msgstr ""
+msgstr "стежити"
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=superbad+dvd">https://duckduckgo.com/?q=superbad+dvd</a>
 msgctxt "zci-product"
 msgid "track"
-msgstr ""
+msgstr "шлях"
 
 msgid "tracker blocking"
-msgstr ""
+msgstr "блокування стеження"
 
 #. An abbreviated form of "year" that can be displayed in a small space e.g. "1yr"
 msgctxt "published date for videos"
