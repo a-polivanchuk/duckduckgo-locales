@@ -1,0 +1,3 @@
+files:
+  - source: /locales/uk_UA/LC_MESSAGES/duckduckgo.po
+    translation: /locales/%locale_with_underscore%/LC_MESSAGES/uk_duckduckgo.po
